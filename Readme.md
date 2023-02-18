@@ -40,15 +40,15 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Design patterns](https://refactoring.guru/fr/design-patterns) - To master design patterns
 
 ## Articles
-- [Some article i have been written](https://medium.com/@philippeivan.com) - i still keep going
+- [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
 
 ## Training
-- [Data structure and algorithms](https://leetcode.com/) - Data structure and algorithms
-- [SQl ](https://sqlzoo.net/wiki/SQL_Tutorial) - SQL 
-- [Css](https://cssbatle.dev/) - CSS
-- [Pentesting](https://tryhackme.com/) - Pentesting
-- [Js](https://jschallenger.com) - Js
-- [Java](https://education.oracle.com/software/java/pFamily_48) - Java
+- [Data structure and algorithms](https://leetcode.com/) 
+- [SQL ](https://sqlzoo.net/wiki/SQL_Tutorial) 
+- [CSS](https://cssbatle.dev/) 
+- [Pentesting](https://tryhackme.com/)
+- [Js](https://jschallenger.com)
+- [Java](https://education.oracle.com/software/java/pFamily_48)
 
 
 
