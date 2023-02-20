@@ -16,6 +16,8 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
 - [Training](#training)
 - [Databases](#databases)
 - [Cryptography](#Cryptography)
+- [Os](#Os) - Here i'll talk about tails os, windows, kali linux and centos
+- [Bath](#Bath)
 - [Tools](#tools)
 - [Company](#Company) - Here i'll talk about tech company to follow up
 - [Others](#others) - Here i'll give some helpful webiste or service such as virus total..
@@ -50,6 +52,11 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Pentesting](https://tryhackme.com/)
 - [Js](https://jschallenger.com)
 - [Java](https://education.oracle.com/software/java/pFamily_48)
+- [Python](https://realpython.com/) - Here you can train or get any python article on which knowledge 
+you want to learn, just enter keyword follow by realpython on google to have it for free. example: 
+```
+list with realpython
+```
 
 
 
