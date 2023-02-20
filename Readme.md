@@ -17,7 +17,8 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
 - [Databases](#databases)
 - [Cryptography](#Cryptography)
 - [Os](#Os) - Here i'll talk about tails os, windows, kali linux and centos
-- [Bath](#Bath)
+- [Devops](#soon)
+- [Bath](#bath)
 - [Tools](#tools)
 - [Company](#Company) - Here i'll talk about tech company to follow up
 - [Others](#others) - Here i'll give some helpful webiste or service such as virus total..
