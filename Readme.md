@@ -41,6 +41,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
 - [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+- [Microservices paradigm](https://microservices.io/) - focus on mirocroservices an other subjects such as Application architecture patterns, Data management, Transactional messaging...
 - [Design patterns](https://refactoring.guru/fr/design-patterns) - To master design patterns
 
 ## Articles
