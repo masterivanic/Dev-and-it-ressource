@@ -49,7 +49,6 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
-- [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉
 - [SQL ](https://sqlzoo.net/wiki/SQL_Tutorial) 
 - [CSS](https://cssbatle.dev/) 
 - [Pentesting](https://tryhackme.com/)
@@ -60,8 +59,9 @@ you want to learn, just enter keyword follow by realpython on google to have it 
 ```
 list with realpython
 ```
-
-
+## Others
+- [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
+- [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉 
 
 
 
