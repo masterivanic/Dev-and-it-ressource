@@ -63,7 +63,7 @@ list with realpython
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
 - [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉 
 - [Concurrency programming with python](https://superfastpython.com/) - help to  learn modern concurrency methods, very helplful made by Jason a PhD, here is [linkedin profile](https://www.linkedin.com/in/jasonbrownlee/)  
-- [Python article](https://www.linkedin.com/in/jasonbrownlee/) - Write faster Python code, and ship your code faster. Here you will get very important article on python,to speed up your python code.
+- [Python article](https://pythonspeed.com/) - Write faster Python code, and ship your code faster. Here you will get very important article on python,to speed up your python code.
 
 
 
