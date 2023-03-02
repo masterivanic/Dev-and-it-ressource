@@ -20,7 +20,7 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
 - [Devops](#soon)
 - [Bath](#bath)
 - [Tools](#tools)
-- [Company](#Company) - Here i'll talk about tech company to follow up
+- [Company](#Company) - Here i'll talk about tech company to follow up and their ressources
 - [Others](#others) - Here i'll give some helpful webiste or service such as virus total..
 ## Programming Language
 - [Java 8](https://docs.oracle.com/javase/8/docs/api/) - Java 8 official documentation
@@ -59,6 +59,17 @@ you want to learn, just enter keyword follow by realpython on google to have it 
 ```
 list with realpython
 ```
+
+## Company
+
+Notes: Here it's some of the biggest tech company in the world, but i choose some hepful ressources about them, so this list is mine, you can find or use your's or decide to contribute🙂 by adding some so i suggest:
+
+- [IBM](https://www.ibm.com/topics/) - i learn more with ibm article on many topics very clairly explanation for [training](https://www.ibm.com/training/), here a look of their [youtube channel](https://www.youtube.com/@IBMTechnology) 😉, my favorite
+- [Google](https://learning.google/) - here learn all about google course
+- [Microsoft](https://learn.microsoft.com/fr-fr/training/) - microsoft formation catalog
+- [Redhat](https://www.redhat.com/fr/topics/) - good explanation too about some usefull topics
+for [training and certification](https://www.redhat.com/fr/services/training-and-certification) their [youtube channel](https://www.youtube.com/@redhat)
+
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
 - [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉 
