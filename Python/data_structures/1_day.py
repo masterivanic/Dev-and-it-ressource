@@ -3,9 +3,43 @@ from collections import Counter, deque, namedtuple
 import csv
 
 """
+ Application of Queue (FIFO) data structure:
+    + CPU Scheduling
+    + Data is transferred asynchronously between two process
+    + Graph Traversal algorithms
+    + Transport and operations management
+    + File servers
+    + IO Buffers
+    + Printer queue
+    + Ressource is share among multiple consumers
+    + phone calls to customer services hotlines
+
+Application of priority Queue:
+    + AI: for exemple , A* search algorithm
+    + Optimization algorihtm
+    + Operating system process scheduling
+    + Bandwith management
+    + Statistical analysis
+    + Spam filtering
+
+Application of A* search:
+    + Traffic navigational system (for eg GPS)
+    + Social network analysis
+    + Natural processing language
+    + Machine Learning
+    + Puzzle solutions and puzzle analogous problems
+    + Algorithm trading
+    + Robotics
+    + Video games
+
+"""
+
+"""
  this function return an Counter object,
  count element of an iterable argument
 """
+
+
 def count_word(paragraph: str):
     paragraph = paragraph.lower()
     paragraph = paragraph.translate(str.maketrans('', '', string.punctuation))
@@ -102,6 +136,17 @@ def read_csv():
             # *line because line is a list, so *list get as many args unless a list
             person = Person(*line)
             print(person, end='\n')
+
+
+class PriorityQueue:
+    def __init__(self):
+        self.elements = []
+    
+    def is_empty(self):
+        return not self.elements
+    
+
+
 
 # ----------------- execute our functions -----------------------------
 

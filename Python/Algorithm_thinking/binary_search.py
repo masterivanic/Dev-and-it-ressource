@@ -6,7 +6,32 @@
  --> Depth-first search
  --> Breadth-first search
  --> Inserion sort and selection sort
+
+Application of Depth-first search:
+    + Optimization of criteria (cost, speed, etc.)
+    + Pathfinding
+    + Scheduling algorithm
+    + Assessing investment decision trees
+    + Ordering of formula cell evaluation in spreedsheets
+    + Determining the order of compilation tasks of software builds
+    + Data serialization
+    + Resolving symbol dependicies 
  
+Application of Breadth-first search:
+    Breadth-first search used Queue as data structure
+    which basic functionnality is ta search a path from
+    a start postion to the ended position by discovering neighboor
+    enqueue and dequeue each of them until will reach the ended position.
+
+    + GPS System
+    + Flight system reservation
+    + Finding neighboor nodes in peer-to-peer network
+    + Social network sites to find connections between users
+    + Web crawlers
+    + Many applications in IA
+    + Electronics and communication engineering
+    + scientific modeling
+
 """
 import random
 

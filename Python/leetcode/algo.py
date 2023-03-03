@@ -3,57 +3,46 @@ from collections import Counter
 
 class Solution:
 
-    def get_numbers_caracters(self, value: str):
-        count = Counter(value)
-        if count.get('0') and count.get('1'):
-            return count.get('0'), count.get('1')
-        elif count.get('0') and not count.get('1'):
-            return count.get('0'), 0
-        elif not count.get('0') and count.get('1'):
-            return 0, count.get('1')
+    """
+      write a code who take a sentence such as 'Hello world!'
+      and print in ouput 
+      Hello
+      world
+      !
+    """
+    def format_word(sentence: str) -> str:
+        if sentence is not None:
+            return ''.join(word + "\n" for word in sentence.split(' '))
 
+    """
+        You are given an array of binary strings strs and two integers m and n.
+        Return the size of the largest subset of strs such that there are at 
+        most m 0's and n 1's in the subset.
+        A set x is a subset of a set y if all elements of x are also elements of y.
+
+        Input: strs = ["10","0001","111001","1","0"], m = 5, n = 3
+        Output: 4
+        Explanation: The largest subset with at most 5 0's and 3 1's is {"10", "0001", "1", "0"}, so the answer is 4.
+        Other valid but smaller subsets include {"0001", "1"} and {"10", "1", "0"}.
+        {"111001"} is an invalid subset because it contains 4 1's, greater than the maximum of 3.
+    """
     def findMaxForm(self, strs: list, m: int, n: int) -> int:
+        count = [[s.count("0"), s.count("1")] for s in strs]
+   
+        def deap_algo(m, n, sts):
+            if m < 0 and n < 0:
+               return -1
+            elif sts == len(strs):
+                return 0
+            num_0, num_1 = count[sts]
+            return max(1+ deap_algo(m-num_0, n-num_1, sts+1), deap_algo(m,n, sts+1))
 
-        value_0, value_1 = 0, 0
-        subsets = []
-        for value in strs:
-            num_0, num_1 = self.get_numbers_caracters(value)  # 1, 1
-            value_0 = num_0
-            value_1 = num_1
-           
-            print(num_0, num_1, end='--> \n')
-           
-
-            if num_0 < m and num_1 < n:
-                print('--- condition 1----')
-                subsets.append(value)
-                num_0 = value_0 + num_0
-                num_1 = value_1 + num_1
-            elif num_0 < m and num_1 <= n:
-                print('--- condition 2----')
-                subsets.append(value)
-                num_0 = value_0 + num_0
-                num_1 = value_1 + num_1
-            elif num_0 <= m and num_1 < n:
-                print('--- condition 3----')
-                subsets.append(value)
-                num_0 = value_0 + num_0
-                num_1 = value_1 + num_1
-            elif num_0 == m and num_1 == n:
-                print('--- condition 4----')
-                subsets.append(value)
-                num_0 = value_0 + num_0
-                num_1 = value_1 + num_1
-
-           
-
-         
-
-        return len(subsets)
+        return deap_algo(m, n, 0)
 
 
 if __name__ == '__main__':
     value = Solution().findMaxForm(["10", "0001", "111001", "1", "0"], 5, 3)
-    print(value)
+    value1 = Solution().findMaxForm(["10","0","1"], 1, 1)
     assert value == 4
-#https://leetcode.com/problems/ones-and-zeroes/
+    assert value1 == 2
+
