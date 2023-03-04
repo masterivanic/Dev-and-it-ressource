@@ -78,5 +78,4 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Virus total](https://www.virustotal.com/gui/home/upload) - VirusTotal is an online service owned by Google that allows the analysis of suspicious files and facilitates the rapid detection of viruses, worms, Trojan horses and all kinds of malware detected by antivirus engines. 
 - [Cloudinary](https://cloudinary.com/) - Cloud base service which help you to manage media storage, provide SDKs, APIs to facilate integration to automate a process. Great just test it, personnaly i've already use it on development.
 - [IP Info](https://ipinfo.io/) - this provide manany service such as geolocation, ranges ip and more. You can get full information about a device through his IP address. you can integrate it on your website if you want to know where requests (country, city, timezone etc.)  are comming from for example.
-
-
+- [Open source resources](https://opensource.com/resources/) - get notes and resources about open source also differents open source software, if you're a developer you must absolutely check this.
