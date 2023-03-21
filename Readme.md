@@ -8,20 +8,15 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
 
 
 ## Contents
-- [Programming Language](#programming-language)
-- [Web Development](#web-development)
-- [AI / Machine Learning / Data Science](#soon)
-- [Miscellaneous](#miscellaneous)
-- [Articles](#articles)
-- [Training](#training)
-- [Databases](#databases)
-- [Cryptography](#Cryptography)
-- [Os](#Os) - Here i'll talk about tails os, windows, kali linux and centos
-- [Devops](#soon)
-- [Bath](#bath)
-- [Tools](#tools)
-- [Company](#Company) - Here i'll talk about tech company to follow up and their ressources
-- [Others](#others) - Here i'll give some helpful webiste or service such as virus total..
+- [My way to become a developer](#my-way-to-become-a-developer)
+  - [Contents](#contents)
+  - [Programming Language](#programming-language)
+  - [Web Development](#web-development)
+  - [Miscellaneous](#miscellaneous)
+  - [Articles](#articles)
+  - [Training](#training)
+  - [Company](#company)
+  - [Others](#others)
 ## Programming Language
 - [Java 8](https://docs.oracle.com/javase/8/docs/api/) - Java 8 official documentation
 for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/) 
@@ -34,6 +29,8 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Angular ](https://angular.io/) - Angular official documentation
 - [Django 4.x](https://docs.djangoproject.com/en/4.1/) - Django official documentation
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
+  - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources
+  - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
