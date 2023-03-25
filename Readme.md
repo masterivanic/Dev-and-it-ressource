@@ -40,6 +40,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
 - [Microservices paradigm](https://microservices.io/) - focus on mirocroservices an other subjects such as Application architecture patterns, Data management, Transactional messaging...
 - [Design patterns](https://refactoring.guru/fr/design-patterns) - To master design patterns
+- [Developer Roadmap](https://roadmap.sh/) - roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
@@ -77,3 +78,9 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [IP Info](https://ipinfo.io/) - this provide manany service such as geolocation, ranges ip and more. You can get full information about a device through his IP address. you can integrate it on your website if you want to know where requests (country, city, timezone etc.)  are comming from for example.
 - [Open source resources](https://opensource.com/resources/) - get notes and resources about open source also differents open source software, if you're a developer you must absolutely check this.
 - [Archive](https://archive.org/) - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more
+
+
+<!-- 
+    step by step to build a scalable
+    django application such as e-commerce app : to search on website (Linkdln)
+-->

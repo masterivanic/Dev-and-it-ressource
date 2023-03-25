@@ -19,3 +19,4 @@ first_dict = {'maths': 0, 'science': 10}
 second_dict = {'sport': 8, 'algorithm': 19}
 final_dict = {**first_dict, **second_dict}
 print(final_dict)
+
