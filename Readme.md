@@ -31,6 +31,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
   - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources
   - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
+  - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
