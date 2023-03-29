@@ -79,6 +79,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [IP Info](https://ipinfo.io/) - this provide manany service such as geolocation, ranges ip and more. You can get full information about a device through his IP address. you can integrate it on your website if you want to know where requests (country, city, timezone etc.)  are comming from for example.
 - [Open source resources](https://opensource.com/resources/) - get notes and resources about open source also differents open source software, if you're a developer you must absolutely check this.
 - [Archive](https://archive.org/) - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more
+- [Sofware development blog](https://enterprisecraftsmanship.com/) - nice blog to learn about sofware development
 
 
 <!-- 
