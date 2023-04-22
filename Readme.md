@@ -31,6 +31,8 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
   - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources
   - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
+  - [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
+  - [Django tools](https://django.wtf/) - best django repo to know
   - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
@@ -80,6 +82,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Open source resources](https://opensource.com/resources/) - get notes and resources about open source also differents open source software, if you're a developer you must absolutely check this.
 - [Archive](https://archive.org/) - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more
 - [Sofware development blog](https://enterprisecraftsmanship.com/) - nice blog to learn about sofware development
+- [Python tips](https://book.pythontips.com/) - here get all python tips every python developers should know
 
 
 <!-- 
