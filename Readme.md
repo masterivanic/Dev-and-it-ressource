@@ -37,10 +37,12 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
+- [Design with Java](https://java-design-patterns.com/)
 
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
 - [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+- [Onion architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - [Microservices paradigm](https://microservices.io/) - focus on mirocroservices an other subjects such as Application architecture patterns, Data management, Transactional messaging...
 - [Design patterns](https://refactoring.guru/fr/design-patterns) - To master design patterns
 - [Developer Roadmap](https://roadmap.sh/) - roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
