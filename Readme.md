@@ -53,7 +53,10 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
-- [SQL ](https://sqlzoo.net/wiki/SQL_Tutorial) 
+- [SQL ](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [Advanced SQL](https://github.com/Coder-World04/Complete-Advanced-SQL-Series)
+- [SQL easy](https://www.sql-easy.com/fr/)
+- [SQL begining](https://sqlbolt.com/) - Learn sql step by step
 - [CSS](https://cssbatle.dev/) 
 - [Pentesting](https://tryhackme.com/)
 - [Js](https://jschallenger.com)
