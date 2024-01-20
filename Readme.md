@@ -86,6 +86,8 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Archive](https://archive.org/) - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more
 - [Sofware development blog](https://enterprisecraftsmanship.com/) - nice blog to learn about sofware development
 - [Python tips](https://book.pythontips.com/) - here get all python tips every python developers should know
+- [Postgres tutorial](https://www.postgresqltutorial.com/) - full Postgres tutorial step by step
+- [Docker GUI](https://dokemon.dev/) - Docker Container Management GUI base on web interface
 
 
 <!-- 
