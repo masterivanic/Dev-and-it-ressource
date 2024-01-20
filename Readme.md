@@ -88,6 +88,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Python tips](https://book.pythontips.com/) - here get all python tips every python developers should know
 - [Postgres tutorial](https://www.postgresqltutorial.com/) - full Postgres tutorial step by step
 - [Docker GUI](https://dokemon.dev/) - Docker Container Management GUI base on web interface
+- [](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
 
 
 <!-- 
