@@ -93,6 +93,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Docker GUI](https://dokemon.dev/) - Docker Container Management GUI base on web interface
 - [Python fullstack](https://www.fullstackpython.com/) - Python utils ressources
 - [Web api](https://github.com/webpy/webpy) - web.py is a Python web framework that is as simple as it is powerful.
+- [Python speed](https://pythonspeed.com/) - amazing python blog website for speed your pythonista skills
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
 
 
