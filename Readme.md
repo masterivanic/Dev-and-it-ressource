@@ -94,6 +94,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Python fullstack](https://www.fullstackpython.com/) - Python utils ressources
 - [Web api](https://github.com/webpy/webpy) - web.py is a Python web framework that is as simple as it is powerful.
 - [Python speed](https://pythonspeed.com/) - amazing python blog website for speed your pythonista skills
+- [Pm4py](https://pm4py.fit.fraunhofer.de/) - pm4py is the leading open source process mining platform written in Python
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
 
 
