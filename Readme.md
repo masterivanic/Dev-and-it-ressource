@@ -28,6 +28,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 ## Web Development
 - [Angular Developer Roadmap 2](https://github.com/saifaustcse/angular-developer-roadmap) - Roadmap to becoming an Angular developer [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/saifaustcse/angular-developer-roadmap).
 - [Angular ](https://angular.io/) - Angular official documentation
+- [Angular docs](https://angular.dev/overview) - New angular docs from angular v17
 - [Primeface](https://primeng.org/) - PrimeNG comprehensive suite of customizable, feature-rich UI components for Angular
 - [Django 4.x](https://docs.djangoproject.com/en/4.1/) - Django official documentation
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
