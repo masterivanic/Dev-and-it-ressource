@@ -59,6 +59,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
 - [SQL ](https://sqlzoo.net/wiki/SQL_Tutorial)
+- [Oracle SQL](https://www.oracletutorial.com/) - (Oracle sql blog)
 - [Advanced SQL](https://github.com/Coder-World04/Complete-Advanced-SQL-Series)
 - [SQL easy](https://www.sql-easy.com/fr/)
 - [SQL begining](https://sqlbolt.com/) - Learn sql step by step
