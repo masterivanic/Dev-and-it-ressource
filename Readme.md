@@ -43,6 +43,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
 - [Design with Java](https://java-design-patterns.com/)
+- [Design with Python](https://python-patterns.guide/)
 
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
