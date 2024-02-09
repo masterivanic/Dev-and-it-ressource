@@ -69,6 +69,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Java](https://education.oracle.com/software/java/pFamily_48)
 - [HTML-CSS-JS](https://html-css-js.com/) - Learning html css and js has never been easier
 - [Rust](https://jimskapt.github.io/rust-book-fr/foreword.html) - Learn rust by example
+- [Git](https://learngitbranching.js.org/?locale=fr_FR) - learn git by playing, awesome to better understanding of git core concept for beginner
 - [Python](https://realpython.com/) - Here you can train or get any python article on which knowledge 
 you want to learn, just enter keyword follow by realpython on google to have it for free. example: 
 ```
