@@ -16,6 +16,7 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
   - [Articles](#articles)
   - [Training](#training)
   - [Company](#company)
+  - [AI Generative](#ai-generative)
   - [Others](#others)
 ## Programming Language
 - [Java 8](https://docs.oracle.com/javase/8/docs/api/) - Java 8 official documentation
@@ -88,6 +89,12 @@ Notes: Here it's some of the biggest tech company in the world, but i choose som
 - [Microsoft](https://learn.microsoft.com/fr-fr/training/) - microsoft formation catalog
 - [Redhat](https://www.redhat.com/fr/topics/) - good explanation too about some usefull topics
 for [training and certification](https://www.redhat.com/fr/services/training-and-certification) their [youtube channel](https://www.youtube.com/@redhat)
+
+
+## AI Generative
+- [Ph mind](https://www.phind.com/)
+- [Plexi ai](https://www.perplexity.ai/search)
+
 
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
