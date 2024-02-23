@@ -2,8 +2,6 @@
 
 Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathematics, I was looking for a practical field, which would allow me to put my cerebral abilities to the test, while having a small link with mathematics, hence Software Engineering. I have now converted to this new sector in which I feel a new fulfillment. Here I will approach as I go along the stacks and tools that I had to use and those that I will still discover.
 
-+ From this page, you can consult the **Python** folder to find all the python scripts, in particular on the tips and some codes, as well as in the **Java** folder
-
 > From this page, you can consult the **Python** folder to find all the python scripts, in particular on the tips and some codes, as well as in the **Java** folder.
 
 
