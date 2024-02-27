@@ -92,6 +92,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 ## AI Generative
 - [Ph mind](https://www.phind.com/)
 - [Plexi ai](https://www.perplexity.ai/search)
+- [AI Tools](https://github.com/mahseema/awesome-ai-tools) - awesome ai tools
 
 
 ## Others
