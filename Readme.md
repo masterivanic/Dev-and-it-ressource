@@ -43,6 +43,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
 - [Design with Java](https://java-design-patterns.com/)
 - [Design with Python](https://python-patterns.guide/)
+- [Awesome REST](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
 
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
