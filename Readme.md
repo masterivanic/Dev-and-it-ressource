@@ -93,6 +93,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Ph mind](https://www.phind.com/)
 - [Plexi ai](https://www.perplexity.ai/search)
 - [AI Tools](https://github.com/mahseema/awesome-ai-tools) - awesome ai tools
+- [ML OPs](https://github.com/kelvins/awesome-mlops) - awesome MLOps ressources
 
 
 ## Others
