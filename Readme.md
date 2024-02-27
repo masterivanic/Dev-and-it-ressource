@@ -133,6 +133,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome GitOps](https://github.com/weaveworks/awesome-gitops) - gitops ressources
 - [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
 - [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
+- [Awesome bash](https://github.com/awesome-lists/awesome-bash) - Awesome bash ressources
 
 
 <!-- 
