@@ -119,6 +119,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
 - [Awesome Go](https://awesome-go.com/) - awesome go project
 - [Awesome Java](https://github.com/akullpp/awesome-java) - awesome java project
+- [Awesome Python](https://awesome-python.com/) - awesome python project
 
 
 <!-- 
