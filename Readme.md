@@ -129,6 +129,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [DB tools](https://github.com/mgramin/awesome-db-tools) - awesome db tools
 - [Awesome algorithms](https://awesome-algorithms.readthedocs.io/en/latest/README.html) - awesome algorithms ressources
 - [Awesome devops](https://awesome-devops.xyz/list/) - awesome devops ressources
+- [Awesome NetOps](https://github.com/nyquist/awesome-networking) - netops ressources
 
 
 <!-- 
