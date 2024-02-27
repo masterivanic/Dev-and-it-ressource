@@ -131,6 +131,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome devops](https://awesome-devops.xyz/list/) - awesome devops ressources
 - [Awesome NetOps](https://github.com/nyquist/awesome-networking) - netops ressources
 - [Awesome GitOps](https://github.com/weaveworks/awesome-gitops) - gitops ressources
+- [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
 
 
 <!-- 
