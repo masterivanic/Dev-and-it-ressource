@@ -120,6 +120,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome Go](https://awesome-go.com/) - awesome go project
 - [Awesome Java](https://github.com/akullpp/awesome-java) - awesome java project
 - [Awesome Python](https://awesome-python.com/) - awesome python project
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - awesome JS project
 
 
 <!-- 
