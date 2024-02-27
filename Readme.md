@@ -134,6 +134,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
 - [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
 - [Awesome bash](https://github.com/awesome-lists/awesome-bash) - Awesome bash ressources
+- [Awesome OS](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 
 
 <!-- 
