@@ -116,6 +116,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Streamlit](https://docs.streamlit.io/) - Streamlit turns data scripts into shareable web apps in minutes.All in pure Python. No front‑end experience required. (for data application)
 - [Process mining ressource](https://github.com/TheWoops/awesome-processmining) - Ressource for process mining with python
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
 
 
 <!-- 
