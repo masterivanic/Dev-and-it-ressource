@@ -125,6 +125,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome Scala](https://index.scala-lang.org/awesome) - awesome scala project
 - [Awesome Ruby](https://awesome-ruby.com/) - awesome ruby project
 - [Awesome Data science](https://github.com/natnew/Awesome-Data-Science) - awesome data science tools and ressources
+- [DB tools](https://github.com/mgramin/awesome-db-tools) - awesome db tools 
 
 
 <!-- 
