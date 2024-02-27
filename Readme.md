@@ -130,6 +130,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome algorithms](https://awesome-algorithms.readthedocs.io/en/latest/README.html) - awesome algorithms ressources
 - [Awesome devops](https://awesome-devops.xyz/list/) - awesome devops ressources
 - [Awesome NetOps](https://github.com/nyquist/awesome-networking) - netops ressources
+- [Awesome GitOps](https://github.com/weaveworks/awesome-gitops) - gitops ressources
 
 
 <!-- 
