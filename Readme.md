@@ -57,6 +57,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
+- [Interface History](https://www.soa4u.co.uk/2019/02/a-brief-look-at-evolution-of-interface.html) - A brief look at the evolution of interface protocols leading to modern APIs
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
