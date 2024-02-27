@@ -117,6 +117,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Process mining ressource](https://github.com/TheWoops/awesome-processmining) - Ressource for process mining with python
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
+- [Awesome Go](https://awesome-go.com/) - awesome go project
 
 
 <!-- 
