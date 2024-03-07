@@ -75,7 +75,9 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Rust](https://jimskapt.github.io/rust-book-fr/foreword.html) - Learn rust by example
 - [Git](https://learngitbranching.js.org/?locale=fr_FR) - learn git by playing, awesome to better understanding of git core concept for beginner
 - [Bash in minute](https://learnxinyminutes.com/docs/bash/) - learn bash fundamentals in few minutes
-- [Python](https://realpython.com/) - Here you can train or get any python article on which knowledge 
+- [Python](https://realpython.com/) - Here you can train or get any python article on which knowledge
+- [Code wars](https://www.codewars.com/)
+
 you want to learn, just enter keyword follow by realpython on google to have it for free. example: 
 ```
 list with realpython
