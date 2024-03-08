@@ -123,7 +123,10 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Pm4py](https://pm4py.fit.fraunhofer.de/) - pm4py is the leading open source process mining platform written in Python
 - [Streamlit](https://docs.streamlit.io/) - Streamlit turns data scripts into shareable web apps in minutes.All in pure Python. No front‑end experience required. (for data application)
 - [Process mining ressource](https://github.com/TheWoops/awesome-processmining) - Ressource for process mining with python
+- [DB tools](https://github.com/mgramin/awesome-db-tools) - awesome db tools
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
+- [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
+- [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
 - [Awesome Go](https://awesome-go.com/) - awesome go project
 - [Awesome Java](https://github.com/akullpp/awesome-java) - awesome java project
@@ -131,15 +134,13 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - awesome JS project
 - [Awesome Scala](https://index.scala-lang.org/awesome) - awesome scala project
 - [Awesome Ruby](https://awesome-ruby.com/) - awesome ruby project
+- [Awesome C++](https://faraz.work/awesome-cpp/) - awesome cpp project
 - [Awesome Data science](https://github.com/natnew/Awesome-Data-Science) - awesome data science tools and ressources
-- [DB tools](https://github.com/mgramin/awesome-db-tools) - awesome db tools
 - [Awesome algorithms](https://awesome-algorithms.readthedocs.io/en/latest/README.html) - awesome algorithms ressources
 - [Awesome devops](https://awesome-devops.xyz/list/) - awesome devops ressources
 - [Awesome devsecops](https://github.com/devsecops/awesome-devsecops) - awesome devsecops ressources
 - [Awesome NetOps](https://github.com/nyquist/awesome-networking) - netops ressources
 - [Awesome GitOps](https://github.com/weaveworks/awesome-gitops) - gitops ressources
-- [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
-- [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
 - [Awesome bash](https://github.com/awesome-lists/awesome-bash) - Awesome bash ressources
 - [Awesome OS](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 
