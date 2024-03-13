@@ -132,6 +132,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
 - [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
 - [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
+- [Awesome wescraping](https://github.com/lorien/awesome-web-scraping) - webscraping tools
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
 - [Awesome Go](https://awesome-go.com/) - awesome go project
 - [Awesome Java](https://github.com/akullpp/awesome-java) - awesome java project
