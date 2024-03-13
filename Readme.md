@@ -36,8 +36,9 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
   - [Django tools](https://django.wtf/) - best django repo to know
   - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
+  - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
   - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
-  - [Dajngo filter](https://django-filter.readthedocs.io/en/main/)
+  - [Django filter](https://django-filter.readthedocs.io/en/main/)
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
