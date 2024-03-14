@@ -39,6 +39,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
   - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
   - [Django filter](https://django-filter.readthedocs.io/en/main/)
+  - [HTTPX](https://github.com/encode/httpx/) - HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.2
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
