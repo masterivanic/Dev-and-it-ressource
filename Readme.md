@@ -68,6 +68,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Database guide](https://database.guide/)
 - [Rest Hypertext driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 - [Rest worst practice](https://jacobian.org/2008/nov/14/rest-worst-practices/)
+- [REST Third level](https://martinfowler.com/articles/richardsonMaturityModel.html) -Third level of REST API (artin fowler website for great enginering stuff)
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
