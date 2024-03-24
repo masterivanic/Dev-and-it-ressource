@@ -31,6 +31,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Primeface](https://primeng.org/) - PrimeNG comprehensive suite of customizable, feature-rich UI components for Angular
 - [Django 4.x](https://docs.djangoproject.com/en/4.1/) - Django official documentation
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
+  - [Tastypie](https://django-tastypie.readthedocs.io/en/latest/index.html) - Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces.
   - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources
   - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
   - [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
