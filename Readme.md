@@ -66,6 +66,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Python project template](https://blog.tedivm.com/open-source/2023/02/robs-awesome-python-template/)
 - [Database guide](https://database.guide/)
 - [Rest Hypertext driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
+- [Rest worst practice](https://jacobian.org/2008/nov/14/rest-worst-practices/)
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
