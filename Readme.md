@@ -20,6 +20,7 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
 - [Java 8](https://docs.oracle.com/javase/8/docs/api/) - Java 8 official documentation
 for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/) 
 - [Python 3](https://docs.python.org/3/) - Python 3.x official documentation
+- [Python fundamentals](https://python101.pythonlibrary.org/) - Resume of official docs with more snippets code good for beginner
 - [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/s4kibs4mi/java-developer-roadmap).
 - [Go](https://go.dev/doc/tutorial/getting-started) - Go langage official docs you can reach to [gobyexample](https://gobyexample.com/) to learn go step by step
 
