@@ -43,6 +43,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
   - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
   - [Django filter](https://django-filter.readthedocs.io/en/main/)
+  - [Python DI framework](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
   - [HTTPX](https://github.com/encode/httpx/) - HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.2
   - [Socketify](https://github.com/cirospaciari/socketify.py) - Socketify.py is a reliable, high-performance Python web framework for building large-scale app backends and microservices
   - [Lato](https://lato.readthedocs.io/en/latest/) - Lato is a microframework for building modular applications in Python.
