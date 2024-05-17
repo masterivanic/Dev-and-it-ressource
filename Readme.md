@@ -50,6 +50,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
   - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
+  - [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
