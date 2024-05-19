@@ -77,6 +77,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [PEP](https://peps.python.org/) - Python guide style
 - [GooglePy](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 - [Google github](https://github.com/google) - google open source project
+- [Vulture](https://pypi.org/project/vulture/) - Vulture finds unused code in Python programs
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
