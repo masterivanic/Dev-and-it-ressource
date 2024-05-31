@@ -151,7 +151,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Python fullstack](https://www.fullstackpython.com/) - Python utils ressources
 - [Web api](https://github.com/webpy/webpy) - web.py is a Python web framework that is as simple as it is powerful.
 - [Python speed](https://pythonspeed.com/) - amazing python blog website for speed your pythonista skills
-- [Pm4py](https://pm4py.fit.fraunhofer.de/) - pm4py is the leading open source process mining platform written in Python
+- [Pm4py](https://pm4py.fit.fraunhofer.de/) - pm4py is the leading open source process mining platform written in Python [another docs](https://pm4py-source.readthedocs.io/en/latest/)
 - [BPMN](https://bpmn.io/) - Web-based tooling for BPMN, DMN and Forms library in Js.
 - [Streamlit](https://docs.streamlit.io/) - Streamlit turns data scripts into shareable web apps in minutes.All in pure Python. No front‑end experience required. (for data application)
 - [Process mining ressource](https://github.com/TheWoops/awesome-processmining) - Ressource for process mining with python
