@@ -6,6 +6,32 @@
 from collections import defaultdict
 from collections import namedtuple
 
+
+class MyString(str):
+    # define class String to be used as pipe
+    
+    def __init__(self, string):
+        if isinstance(string, str):
+            self.data = string
+        else:
+            self.data = ""
+
+    def map(self, func: callable):
+        self.data = list(map(func, self.data))
+        return self
+
+    def filter(self, func):
+        self.data = list(filter(func, self.data))
+        return self
+
+    def splitlines(self):
+        self.data = self.data.splitlines()
+        return self
+
+    def join(self):
+        self.data = "\n".join(self.data)
+        return self
+
 Grade = namedtuple('Grade', ('score', 'weight'))
     
 class Subject:
@@ -80,6 +106,13 @@ if __name__ == '__main__':
     gym.report_grade(100, 0.40)
     gym.report_grade(85, 0.60)
     print(ivan_student.average_grade())
+    res = MyString("Ma première ligne \n Ma seconde ligne \n # un commentaire \n ma trosième ligne")\
+        .splitlines()\
+        .map(lambda x: x.strip())\
+        .filter(lambda x: x and not x.startswith('#'))\
+        .join()
+    print(res)
+    
    
 
 
