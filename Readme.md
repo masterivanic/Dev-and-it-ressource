@@ -154,6 +154,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Pm4py](https://pm4py.fit.fraunhofer.de/) - pm4py is the leading open source process mining platform written in Python [another docs](https://pm4py-source.readthedocs.io/en/latest/)
 - [BPMN](https://bpmn.io/) - Web-based tooling for BPMN, DMN and Forms library in Js.
 - [Streamlit](https://docs.streamlit.io/) - Streamlit turns data scripts into shareable web apps in minutes.All in pure Python. No front‑end experience required. (for data application)
+- [PGMQ](https://github.com/tembo-io/pgmq) - A message queue broker with postgres like RabbitMQ and other.
 - [Process mining ressource](https://github.com/TheWoops/awesome-processmining) - Ressource for process mining with python
 - [DB tools](https://github.com/mgramin/awesome-db-tools) - awesome db tools
 - [Code QL](https://codeql.github.com/) - Discover vulnerabilities across a codebase
