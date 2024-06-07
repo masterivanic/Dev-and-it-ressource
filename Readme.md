@@ -133,6 +133,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [CREWAI](https://docs.crewai.com/core-concepts/Agents/) - docs of systems multiagent [gitbub repo](https://github.com/joaomdmoura/crewai/)
 - [Ollama](https://github.com/ollama/ollama) - download free open source LLM to run it locally
 - [Mohamed Youssfi-conference](https://github.com/mohamedYoussfi/Conf-DistributedAI-GenAI-AIAgents-PromptEngineering) - Conf about DistributedAI & AIAgents
+- [ReAct Framework](https://react-lm.github.io/) - ReAct: Synergizing Reasoning and Acting in Language Models
 
 
 ## Others
