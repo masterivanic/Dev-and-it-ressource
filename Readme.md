@@ -130,6 +130,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [ML OPs](https://github.com/kelvins/awesome-mlops) - awesome MLOps ressources
 - [DSPy](https://github.com/stanfordnlp/dspy) - DSPy is a framework for algorithmically optimizing LM prompts and weights
 - [AIOps](https://github.com/OpsPAI/awesome-AIOps) - A curated list of awesome academic researches and industrial materials about Artificial Intelligence for IT Operations (AIOps).
+- [CREWAI](https://docs.crewai.com/core-concepts/Agents/) - docs of systems multiagent [gitbub repo](https://github.com/joaomdmoura/crewai/)
 
 
 ## Others
