@@ -184,6 +184,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome GitOps](https://github.com/weaveworks/awesome-gitops) - gitops ressources
 - [Awesome bash](https://github.com/awesome-lists/awesome-bash) - Awesome bash ressources
 - [Awesome OS](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
+- [Awesome DBT](https://github.com/Hiflylabs/awesome-dbt) - Accurate list of dbt ressource
 
 
 <!-- 
