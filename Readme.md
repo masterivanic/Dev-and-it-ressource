@@ -69,6 +69,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 
 ## Game Development
 - [PyArcade](https://api.arcade.academy/en/latest/) - Python Arcade Library, you can dev an arcade game using this lib 😉
+- [Pygame](https://www.pygame.org/docs/) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
 
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
