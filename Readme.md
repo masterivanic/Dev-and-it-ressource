@@ -10,7 +10,7 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
   - [Contents](#contents)
   - [Programming Language](#programming-language)
   - [Web Development](#web-development)
-  - [Game-Development](#game-develpment)
+  - [Game Development](#game-development)
   - [Miscellaneous](#miscellaneous)
   - [Articles](#articles)
   - [Training](#training)
