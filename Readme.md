@@ -84,6 +84,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Developer Roadmap](https://roadmap.sh/) - roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings.
 - [PEP](https://peps.python.org/) - Python guide style
 - [GooglePy](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
+- [Pylint](https://pylint.readthedocs.io/en/stable/tutorial.html) - A static python code analyzer. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored.
 - [Google github](https://github.com/google) - google open source project
 - [Vulture](https://pypi.org/project/vulture/) - Vulture finds unused code in Python programs
 - [SQL Linter](https://docs.sqlfluff.com/en/stable/) - SQLFLUFF is a SQL Linter for get readable SQL code for humans :)
