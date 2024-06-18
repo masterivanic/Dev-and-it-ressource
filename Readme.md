@@ -48,6 +48,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [HTTPX](https://github.com/encode/httpx/) - HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.2
   - [Socketify](https://github.com/cirospaciari/socketify.py) - Socketify.py is a reliable, high-performance Python web framework for building large-scale app backends and microservices
   - [Lato](https://lato.readthedocs.io/en/latest/) - Lato is a microframework for building modular applications in Python.
+  - [Litestar](https://litestar.dev/) - is a powerful, flexible yet opinionated ASGI framework, focused on building APIs, and offers high-performance data validation and parsing, dependency injection, first-class ORM integration, authorization primitives, and much more that's needed to get applications up and running.
   - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
   - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
