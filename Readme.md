@@ -86,6 +86,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [GooglePy](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 - [Pylint](https://pylint.readthedocs.io/en/stable/tutorial.html) - A static python code analyzer. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored.
 - [Scapy](https://scapy.net/) - It is a Python-based interactive packet manipulation program & library.
+- [SH With Python](https://sh.readthedocs.io/en/latest/) - Python process launching
 - [Google github](https://github.com/google) - google open source project
 - [Vulture](https://pypi.org/project/vulture/) - Vulture finds unused code in Python programs
 - [SQL Linter](https://docs.sqlfluff.com/en/stable/) - SQLFLUFF is a SQL Linter for get readable SQL code for humans :)
