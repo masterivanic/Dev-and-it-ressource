@@ -187,6 +187,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome Go](https://awesome-go.com/) - awesome go project
 - [Awesome Java](https://github.com/akullpp/awesome-java) - awesome java project
 - [Awesome Python](https://awesome-python.com/) - awesome python project
+- [Awesome fast-api](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript) - awesome JS project
 - [Awesome Scala](https://index.scala-lang.org/awesome) - awesome scala project
 - [Awesome Ruby](https://awesome-ruby.com/) - awesome ruby project
