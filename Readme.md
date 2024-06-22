@@ -17,6 +17,7 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
   - [Company](#company)
   - [AI Generative](#ai-generative)
   - [Others](#others)
+    
 ## Programming Language
 - [Java 8](https://docs.oracle.com/javase/8/docs/api/) - Java 8 official documentation
 for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/) 
@@ -181,6 +182,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [OWASP ZAP](https://www.zaproxy.org/docs/docker/about/) - free tools for pentesting of an application in dev environnment 
 - [Europython](https://ep2023.europython.eu/) - europython europe community for blog, sesssion etc.
 - [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
+- [cURL](https://ec.haxx.se/index.html) - Curl is a command line tool to do various operations with UrLs, we are going to use it throughout the book to test our endpoints and code.
 - [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
 - [Awesome wescraping](https://github.com/lorien/awesome-web-scraping) - webscraping tools
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
