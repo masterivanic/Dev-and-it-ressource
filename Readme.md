@@ -103,6 +103,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Rest Hypertext driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 - [Rest worst practice](https://jacobian.org/2008/nov/14/rest-worst-practices/)
 - [REST Third level](https://martinfowler.com/articles/richardsonMaturityModel.html) -Third level of REST API (artin fowler website for great enginering stuff)
+- [12 factors](https://12factor.net/) - One of the more popular service design methodologies is following the rules of the 12 factor app
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
