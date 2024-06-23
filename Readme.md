@@ -52,6 +52,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Litestar](https://litestar.dev/) - is a powerful, flexible yet opinionated ASGI framework, focused on building APIs, and offers high-performance data validation and parsing, dependency injection, first-class ORM integration, authorization primitives, and much more that's needed to get applications up and running.
   - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
+  - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
   - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
   - [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
   - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
