@@ -123,6 +123,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Bash in minute](https://learnxinyminutes.com/docs/bash/) - learn bash fundamentals in few minutes
 - [Python](https://realpython.com/) - Here you can train or get any python article on which knowledge
 - [Code wars](https://www.codewars.com/)
+- [Learn anything](https://learn-anything.xyz/) - a great website to get ressources about many subjects
 
 you want to learn, just enter keyword follow by realpython on google to have it for free. example: 
 ```
