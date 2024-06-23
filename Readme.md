@@ -108,6 +108,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [12 factors](https://12factor.net/) - One of the more popular service design methodologies is following the rules of the 12 factor app
 - [DevOps article](https://devops.com/)
 - [Hexagonal Architecture](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html)
+- [Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
