@@ -53,6 +53,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
   - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
+  - [Kombu](https://github.com/celery/kombu) - Kombu is a messaging library for Python.
   - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
   - [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
   - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
