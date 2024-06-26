@@ -162,7 +162,8 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
 - [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉 
-- [Concurrency programming with python](https://superfastpython.com/) - help to  learn modern concurrency methods, very helplful made by Jason a PhD, here is [linkedin profile](https://www.linkedin.com/in/jasonbrownlee/)  
+- [Concurrency programming with python](https://superfastpython.com/) - help to  learn modern concurrency methods, very helplful made by Jason a PhD, here is [linkedin profile](https://www.linkedin.com/in/jasonbrownlee/)
+- [Docker sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheaat Sheet (essentials commands) 
 - [Python article](https://pythonspeed.com/) - Write faster Python code, and ship your code faster. Here you will get very important article on python,to speed up your python code.
 - [Virus total](https://www.virustotal.com/gui/home/upload) - VirusTotal is an online service owned by Google that allows the analysis of suspicious files and facilitates the rapid detection of viruses, worms, Trojan horses and all kinds of malware detected by antivirus engines. 
 - [Cloudinary](https://cloudinary.com/) - Cloud base service which help you to manage media storage, provide SDKs, APIs to facilate integration to automate a process. Great just test it, personnaly i've already use it on development.
