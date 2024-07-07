@@ -67,6 +67,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [HandsontableJS](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
+- [Flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy
 - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) - For Spring framework learning
 - [Design with Java](https://java-design-patterns.com/)
 - [Design with Python](https://python-patterns.guide/)
