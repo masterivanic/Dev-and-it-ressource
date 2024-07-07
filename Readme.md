@@ -37,6 +37,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
   - [Tastypie](https://django-tastypie.readthedocs.io/en/latest/index.html) - Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces.
   - [Fast api](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+  - [Awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
   - [SQLAchemy admin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
   - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources
   - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
