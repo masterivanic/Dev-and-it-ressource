@@ -40,7 +40,8 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Fasthx](https://github.com/volfpeter/fasthx) - FastAPI and HTMX, the right way.
   - [Awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
   - [SQLAchemy admin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
-  - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources
+  - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources (djanog book)
+  - [Django admin cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/) - Django admin cookbbok usefull tips
   - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
   - [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
   - [Django tools](https://django.wtf/) - best django repo to know
