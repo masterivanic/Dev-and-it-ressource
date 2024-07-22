@@ -104,8 +104,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [TTk Bootstrap](https://github.com/israel-dryer/ttkbootstrap/) - A supercharged theme extension for tkinter that enables on-demand modern flat style themes inspired by Bootstrap.
 - [SAQ (Simple Async Queue)](https://saq-py.readthedocs.io/en/latest/index.html) - is a simple and performant job queueing framework built on top of asyncio and redis. It can be used for processing background jobs with workers
 - [Crawlee](https://github.com/apify/crawlee-python) - A web scraping and browser automation library for Python to build reliable crawlers.
-- [Google github](https://github.com/google) - google open so
-- urce project
+- [Google github](https://github.com/google) - google open source project
 - [Compose-Exampel](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Vulture](https://pypi.org/project/vulture/) - Vulture finds unused code in Python programs
 - [SQL Linter](https://docs.sqlfluff.com/en/stable/) - SQLFLUFF is a SQL Linter for get readable SQL code for humans :)
