@@ -83,6 +83,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 ## Game Development
 - [PyArcade](https://api.arcade.academy/en/latest/) - Python Arcade Library, you can dev an arcade game using this lib 😉
 - [Pygame](https://www.pygame.org/docs/) - 🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.
+- [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Awesome Game-Engine](https://github.com/stevinz/awesome-game-engine-dev) - Awesome list of resources for Game Engine Development.
 - [GODOTENGINE](https://godotengine.org/) - Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
 
