@@ -112,6 +112,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [Moby](https://mobyproject.org/projects/) - Moby is an open-source project, created by Docker, to enable and accelerate software containerization.
 - [Kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
+- [GGShield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
