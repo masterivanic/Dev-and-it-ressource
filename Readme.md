@@ -111,6 +111,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [SQL Linter](https://docs.sqlfluff.com/en/stable/) - SQLFLUFF is a SQL Linter for get readable SQL code for humans :)
 - [Codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [Moby](https://mobyproject.org/projects/) - Moby is an open-source project, created by Docker, to enable and accelerate software containerization.
+- [Kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
