@@ -178,6 +178,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Mohamed Youssfi-conference](https://github.com/mohamedYoussfi/Conf-DistributedAI-GenAI-AIAgents-PromptEngineering) - Conf about DistributedAI & AIAgents
 - [ReAct Framework](https://react-lm.github.io/) - ReAct: Synergizing Reasoning and Acting in Language Models
 - [Tinygrad](https://github.com/tinygrad/tinygrad?tab=readme-ov-file) - a deep learning framework
+- [Exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 
 
 ## Others
