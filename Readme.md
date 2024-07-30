@@ -109,6 +109,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [SAQ (Simple Async Queue)](https://saq-py.readthedocs.io/en/latest/index.html) - is a simple and performant job queueing framework built on top of asyncio and redis. It can be used for processing background jobs with workers
 - [Crawlee](https://github.com/apify/crawlee-python) - A web scraping and browser automation library for Python to build reliable crawlers.
 - [Google github](https://github.com/google) - google open source project
+- [gTTS](https://github.com/pndurette/gTTS) - Python library and CLI tool to interface with Google Translate's text-to-speech API
 - [Compose-Exampel](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [Vulture](https://pypi.org/project/vulture/) - Vulture finds unused code in Python programs
 - [SQL Linter](https://docs.sqlfluff.com/en/stable/) - SQLFLUFF is a SQL Linter for get readable SQL code for humans :)
