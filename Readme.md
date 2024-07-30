@@ -90,6 +90,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
+- [Compiler explorer](https://godbolt.org/) - online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 - [Software Design and Architecture Roadmap](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
 - [Onion architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
 - [Microservices paradigm](https://microservices.io/) - focus on mirocroservices an other subjects such as Application architecture patterns, Data management, Transactional messaging... and get code by exampple here [microservice pattern implementation](https://github.com/microservices-patterns/ftgo-application)
