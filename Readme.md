@@ -57,6 +57,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Lato](https://lato.readthedocs.io/en/latest/) - Lato is a microframework for building modular applications in Python.
   - [Litestar](https://litestar.dev/) - is a powerful, flexible yet opinionated ASGI framework, focused on building APIs, and offers high-performance data validation and parsing, dependency injection, first-class ORM integration, authorization primitives, and much more that's needed to get applications up and running.
   - [Litestar alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
+  - [Flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python
   - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
   - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
