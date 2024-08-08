@@ -11,6 +11,7 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
   - [Programming Language](#programming-language)
   - [Web Development](#web-development)
   - [Game Development](#game-development)
+  - [Data Science - DB HUB](#data-science-db-hub)
   - [Miscellaneous](#miscellaneous)
   - [Articles](#articles)
   - [Training](#training)
@@ -89,6 +90,12 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Awesome Game-Engine](https://github.com/stevinz/awesome-game-engine-dev) - Awesome list of resources for Game Engine Development.
 - [GODOTENGINE](https://godotengine.org/) - Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
+
+## Data Science - DB HUB
+- [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
+- [Doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
+
 
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
@@ -184,7 +191,8 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [ReAct Framework](https://react-lm.github.io/) - ReAct: Synergizing Reasoning and Acting in Language Models
 - [Tinygrad](https://github.com/tinygrad/tinygrad?tab=readme-ov-file) - a deep learning framework
 - [Exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-
+- [WrenAI](https://github.com/Canner/WrenAI) - Open-source Text-to-SQL solution, Wren AI makes your database RAG-ready.
+- [TxTai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
