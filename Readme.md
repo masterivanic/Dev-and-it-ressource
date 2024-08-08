@@ -11,12 +11,12 @@ Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathemat
   - [Programming Language](#programming-language)
   - [Web Development](#web-development)
   - [Game Development](#game-development)
-  - [Data Science - DB HUB](#data-science-db-hub)
+  - [Data Science - DB HUB](#data-science---db-hub)
   - [Miscellaneous](#miscellaneous)
   - [Articles](#articles)
   - [Training](#training)
   - [Company](#company)
-  - [AI Generative](#ai-generative)
+  - [AI Ressources](#ai-ressources)
   - [Others](#others)
     
 ## Programming Language
