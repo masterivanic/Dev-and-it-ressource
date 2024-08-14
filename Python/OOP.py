@@ -10,25 +10,24 @@ from collections import namedtuple
 class MyString(str):
     # define class String to be used as pipe
     
-    def __init__(self, string):
+    def __init__(self, string:str=""):
         if isinstance(string, str):
             self.data = string
-        else:
-            self.data = ""
 
-    def map(self, func: callable):
+
+    def map(self, func: callable) -> 'MyString':
         self.data = list(map(func, self.data))
         return self
 
-    def filter(self, func):
+    def filter(self, func) -> 'MyString':
         self.data = list(filter(func, self.data))
         return self
 
-    def splitlines(self):
+    def splitlines(self) -> 'MyString':
         self.data = self.data.splitlines()
         return self
 
-    def join(self):
+    def join(self) -> 'MyString':
         self.data = "\n".join(self.data)
         return self
 
