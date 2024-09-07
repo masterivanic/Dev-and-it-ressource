@@ -65,6 +65,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
   - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
+  - [Microrabbit](https://github.com/TonnoBelloSnello/microrabbit) - A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems.
   - [Kombu](https://github.com/celery/kombu) - Kombu is a messaging library for Python.
   - [Bytewax](https://github.com/bytewax/bytewax) - Bytewax is a Python framework that simplifies event and stream processing
   - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
