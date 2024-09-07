@@ -200,6 +200,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [WrenAI](https://github.com/Canner/WrenAI) - Open-source Text-to-SQL solution, Wren AI makes your database RAG-ready.
 - [TxTai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [Open-Interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [Gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
 
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
