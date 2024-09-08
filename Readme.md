@@ -201,7 +201,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [TxTai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [Open-Interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
-
+- [Mini-OMNI](https://huggingface.co/gpt-omni/mini-omni/tree/main) - An open-source MMLM that can do real-time speech input and output. 
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
 - [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉 
