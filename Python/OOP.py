@@ -93,7 +93,24 @@ class WeightedGradebook:
             score_count += 1
         return score_sum / score_count
 
+class MyType(object):
+    def __init__(self, name:str) -> None:
+        self._name = name
 
+    def __get__(self, inst, cls):
+        if inst is None:
+            return self
+        else:
+            return inst.__dict__[self._name]
+        
+    def __set__(self, inst, value):
+        if not isinstance(value, int):
+            raise TypeError("Expected int")
+        inst.__dict__[self._name] = value
+
+    def __delete__(self, inst):
+        del inst.__dict__[self._name]
+        
 if __name__ == '__main__':
     book = GradeBook()
     ivan_student = book.get_student('Ivan')
