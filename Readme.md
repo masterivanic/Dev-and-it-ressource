@@ -75,6 +75,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
   - [DRF Async](https://github.com/em1208/adrf) - Django async support lib
   - [Snorky](https://snorky.readthedocs.io/en/latest/) - Snorky is a framework for building WebSocket servers based on common patterns.
+  - [Honcho](https://honcho.readthedocs.io/en/latest/) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
   - [Django axes](https://github.com/jazzband/django-axes) - This djanog lib help you to Keep track of failed login attempts in Django-powered sites
   - [Django tenant ](https://django-tenant-schemas.readthedocs.io/en/latest/index.html) - a django lib to support multiple tenant accross many db
   - [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to         create runtime environment to use during your automatic tests.
