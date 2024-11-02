@@ -136,6 +136,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Moby](https://mobyproject.org/projects/) - Moby is an open-source project, created by Docker, to enable and accelerate software containerization.
 - [Kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
+- [Sqlparse](https://sqlparse.readthedocs.io/en/latest/) - sqlparse is a non-validating SQL parser for Python.
 - [GGShield](https://github.com/GitGuardian/ggshield) - Find and fix 400+ types of hardcoded secrets and 70+ types of infrastructure-as-code misconfigurations.
 - [Moby project](https://mobyproject.org/projects/) - Moby is an open-source project, created by Docker, to enable and accelerate software containerization
 - [Kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway
