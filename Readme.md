@@ -88,6 +88,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Design with Python](https://python-patterns.guide/)
 - [Design with Rust](https://rust-unofficial.github.io/patterns/)
 - [Awesome REST](https://github.com/marmelab/awesome-rest) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
+- [PyO3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [Entreprise pattern](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html) - Learn about amazing stuff concerning architecture design of entreprise application
 
 
