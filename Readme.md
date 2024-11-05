@@ -273,6 +273,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome OS](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
 - [Awesome DBT](https://github.com/Hiflylabs/awesome-dbt) - Accurate list of dbt ressource
 - [Awesome jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
+- [Awesome DDD](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 
 
 <!-- 
