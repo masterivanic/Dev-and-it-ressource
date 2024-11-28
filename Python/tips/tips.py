@@ -20,3 +20,28 @@ second_dict = {'sport': 8, 'algorithm': 19}
 final_dict = {**first_dict, **second_dict}
 print(final_dict)
 
+
+from collections import UserDict
+from collections import UserString
+
+class MyDict(UserDict):
+    def push(self, key, value):
+        raise RuntimeError("cannot insert")
+    
+class MyString(UserString):
+    """
+        Used to create strings with custom
+        functionnalities 
+    """
+    def append(self, value:str | None) -> None:
+        if not isinstance(value, str):
+            raise RuntimeError(f"{value} is not type str")
+        self.data += value
+
+# d = MyDict({'test': 1, 'tester':2})
+# d.push('d', 12)
+
+st = MyString("Python")
+print(st)
+st.append("3")
+print(st)

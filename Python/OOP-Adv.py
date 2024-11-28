@@ -15,9 +15,6 @@ class TypeChecker(object):
         print(obj_attrs, "in get method-()")
 
     def __call__(self, *args, **kwargs):
-        # obj_attrs = getattr(self.cls)
-        # print(obj_attrs, "in get method-()")
-        print(dir(self.cls))
         return self.cls(*args, **kwargs)
 
 @TypeChecker

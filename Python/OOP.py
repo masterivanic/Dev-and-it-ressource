@@ -100,8 +100,7 @@ class MyType(object):
     def __get__(self, inst, cls):
         if inst is None:
             return self
-        else:
-            return inst.__dict__[self._name]
+        return inst.__dict__[self._name]
         
     def __set__(self, inst, value):
         if not isinstance(value, int):
