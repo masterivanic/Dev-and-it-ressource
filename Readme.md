@@ -252,6 +252,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Mathematics](https://github.com/ubavic/awesome-interactive-math) - Maths ressources
 - [cURL](https://ec.haxx.se/index.html) - Curl is a command line tool to do various operations with UrLs, we are going to use it throughout the book to test our endpoints and code.
 - [Trippy](https://github.com/fujiapple852/trippy) - Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues.
+- [GTFOBins](https://gtfobins.github.io/) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured system
 - [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
 - [Awesome wescraping](https://github.com/lorien/awesome-web-scraping) - webscraping tools
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
