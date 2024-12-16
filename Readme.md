@@ -182,6 +182,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Python](https://realpython.com/) - Here you can train or get any python article on which knowledge
 - [Code wars](https://www.codewars.com/)
 - [Learn anything](https://learn-anything.xyz/) - a great website to get ressources about many subjects
+- [Linux journey](https://linuxjourney.com/) - Learn the ways of Linux-fu, for free.
 
 you want to learn, just enter keyword follow by realpython on google to have it for free. example: 
 ```
