@@ -1,14 +1,14 @@
 <a name="top"></a>
 
-# My way to become a developer
+# Curious Developer side 👀 
 
-Hello community, I'm Philppe Ivan (@MasterGeek). First passionate about Mathematics, I was looking for a practical field, which would allow me to put my cerebral abilities to the test, while having a small link with mathematics, hence Software Engineering. I have now converted to this new sector in which I feel a new fulfillment. Here I will approach as I go along the stacks and tools that I had to use and those that I will still discover.
+Hello community, welcome to passionate. Here we will discover amazing ressources.
 
 > From this page, you can consult the **Python** folder to find all the python scripts, in particular on the tips and some codes, as well as in the **Java** folder.
 
 
 ## Contents
-- [My way to become a developer](#my-way-to-become-a-developer)
+- [Curious Developer side](#curious-developer-side)
   - [Contents](#contents)
   - [Programming Language](#programming-language)
   - [Web Development](#web-development)
@@ -95,7 +95,6 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Hatch](https://github.com/pypa/hatch) - About Modern, extensible Python project management
 - [Rye](https://github.com/astral-sh/rye) - Rye is a comprehensive project and package management solution for Python
 - [PDM](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-
 - [Entreprise pattern](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html) - Learn about amazing stuff concerning architecture design of entreprise application
 
 
@@ -184,11 +183,6 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Code wars](https://www.codewars.com/)
 - [Learn anything](https://learn-anything.xyz/) - a great website to get ressources about many subjects
 - [Linux journey](https://linuxjourney.com/) - Learn the ways of Linux-fu, for free.
-
-you want to learn, just enter keyword follow by realpython on google to have it for free. example: 
-```
-list with realpython
-```
 
 ## Company
 
