@@ -67,6 +67,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
   - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
   - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
   - [Microrabbit](https://github.com/TonnoBelloSnello/microrabbit) - A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems.
+  - [Reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python 🐍
   - [Kombu](https://github.com/celery/kombu) - Kombu is a messaging library for Python.
   - [gRPC](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
   - [Bytewax](https://github.com/bytewax/bytewax) - Bytewax is a Python framework that simplifies event and stream processing
