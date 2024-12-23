@@ -149,6 +149,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Moby project](https://mobyproject.org/projects/) - Moby is an open-source project, created by Docker, to enable and accelerate software containerization
 - [Kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway
 - [Fluentd](https://github.com/fluent/fluentd) - It's an Unified Logging Layer (project under CNCF)
+- [Commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
@@ -212,7 +213,8 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [TxTai](https://github.com/neuml/txtai) - 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows
 - [Open-Interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
-- [Mini-OMNI](https://huggingface.co/gpt-omni/mini-omni/tree/main) - An open-source MMLM that can do real-time speech input and output. 
+- [Mini-OMNI](https://huggingface.co/gpt-omni/mini-omni/tree/main) - An open-source MMLM that can do real-time speech input and output.
+  
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
 - [Algorithms with python](https://cscircles.cemc.uwaterloo.ca/visualize/) - visualize step by step python algorithm execution with graph, very nice tools 😉 
