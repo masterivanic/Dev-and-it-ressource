@@ -112,6 +112,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
 - [Sqlite-vec](https://github.com/asg017/sqlite-vec) - A vector search SQLite extension that runs anywhere!
 - [Apache Ballista](https://datafusion.apache.org/ballista/) - Ballista is a distributed compute platform primarily implemented in Rust, and powered by Apache DataFusion
+- [Plotly](https://github.com/plotly/plotly.py/tree/doc-prod) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
 
 
 ## Miscellaneous
