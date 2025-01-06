@@ -38,49 +38,50 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Primeface](https://primeng.org/) - PrimeNG comprehensive suite of customizable, feature-rich UI components for Angular
 - [Django 4.x](https://docs.djangoproject.com/en/4.1/) - Django official documentation
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
-  - [Tastypie](https://django-tastypie.readthedocs.io/en/latest/index.html) - Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces.
-  - [Fast api](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-  - [Robyn python framework](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
-  - [Fasthx](https://github.com/volfpeter/fasthx) - FastAPI and HTMX, the right way.
-  - [Awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
-  - [SQLAchemy admin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
-  - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources (djanog book)
-  - [Django admin cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/) - Django admin cookbbok usefull tips
-  - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
-  - [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
-  - [Django tools](https://django.wtf/) - best django repo to know
-  - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
-  - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
-  - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
-  - [Django filter](https://django-filter.readthedocs.io/en/main/)
-  - [Django Unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
-  - [Python DI framework](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
-  - [HTTPX](https://github.com/encode/httpx/) - HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.2
-  - [Socketify](https://github.com/cirospaciari/socketify.py) - Socketify.py is a reliable, high-performance Python web framework for building large-scale app backends and microservices
-  - [Lato](https://lato.readthedocs.io/en/latest/) - Lato is a microframework for building modular applications in Python.
-  - [Litestar](https://litestar.dev/) - is a powerful, flexible yet opinionated ASGI framework, focused on building APIs, and offers high-performance data validation and parsing, dependency injection, first-class ORM integration, authorization primitives, and much more that's needed to get applications up and running.
-  - [Litestar alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
-  - [Flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python
-  - [Shiny-py](https://github.com/posit-dev/py-shiny) - Shiny for Python
-  - [Locust](https://docs.locust.io/en/stable/) - Locust is an open source performance/load testing tool for HTTP and other protocols
-  - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
-  - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
-  - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
-  - [Microrabbit](https://github.com/TonnoBelloSnello/microrabbit) - A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems.
-  - [Reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python 🐍
-  - [Kombu](https://github.com/celery/kombu) - Kombu is a messaging library for Python.
-  - [gRPC](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-  - [Bytewax](https://github.com/bytewax/bytewax) - Bytewax is a Python framework that simplifies event and stream processing
-  - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
-  - [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
-  - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
-  - [DRF Async](https://github.com/em1208/adrf) - Django async support lib
-  - [Nano django](https://github.com/radiac/nanodjango) - Full Django in a single file views, models, API ,with async support.
-  - [Snorky](https://snorky.readthedocs.io/en/latest/) - Snorky is a framework for building WebSocket servers based on common patterns.
-  - [Honcho](https://honcho.readthedocs.io/en/latest/) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
-  - [Django axes](https://github.com/jazzband/django-axes) - This djanog lib help you to Keep track of failed login attempts in Django-powered sites
-  - [Django tenant ](https://django-tenant-schemas.readthedocs.io/en/latest/index.html) - a django lib to support multiple tenant accross many db
-  - [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to         create runtime environment to use during your automatic tests.
+- [Tastypie](https://django-tastypie.readthedocs.io/en/latest/index.html) - Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces.
+- [Fast api](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
+- [Robyn python framework](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
+- [Fasthx](https://github.com/volfpeter/fasthx) - FastAPI and HTMX, the right way.
+- [Awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx) - A curated list of things related to python-based web development using htmx
+- [SQLAchemy admin](https://github.com/aminalaee/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
+- [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources (djanog book)
+- [Django admin cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/) - Django admin cookbbok usefull tips
+- [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
+- [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
+- [Django tools](https://django.wtf/) - best django repo to know
+- [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
+- [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
+- [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
+- [Django filter](https://django-filter.readthedocs.io/en/main/)
+- [Django Unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [Python DI framework](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
+- [HTTPX](https://github.com/encode/httpx/) - HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.2
+- [Socketify](https://github.com/cirospaciari/socketify.py) - Socketify.py is a reliable, high-performance Python web framework for building large-scale app backends and microservices
+- [Lato](https://lato.readthedocs.io/en/latest/) - Lato is a microframework for building modular applications in Python.
+- [Litestar](https://litestar.dev/) - is a powerful, flexible yet opinionated ASGI framework, focused on building APIs, and offers high-performance data validation and parsing, dependency injection, first-class ORM integration, authorization primitives, and much more that's needed to get applications up and running.
+- [Litestar alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
+- [Flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python
+- [Shiny-py](https://github.com/posit-dev/py-shiny) - Shiny for Python
+- [Locust](https://docs.locust.io/en/stable/) - Locust is an open source performance/load testing tool for HTTP and other protocols
+- [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
+- [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
+- [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
+- [Microrabbit](https://github.com/TonnoBelloSnello/microrabbit) - A lightweight, asynchronous Python framework for RabbitMQ that simplifies building microservices and distributed systems.
+- [Reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python 🐍
+- [Kombu](https://github.com/celery/kombu) - Kombu is a messaging library for Python.
+- [gRPC](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- [Bytewax](https://github.com/bytewax/bytewax) - Bytewax is a Python framework that simplifies event and stream processing
+- [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
+- [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
+- [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
+- [DRF Async](https://github.com/em1208/adrf) - Django async support lib
+- [Nano django](https://github.com/radiac/nanodjango) - Full Django in a single file views, models, API ,with async support.
+- [Snorky](https://snorky.readthedocs.io/en/latest/) - Snorky is a framework for building WebSocket servers based on common patterns.
+- [Honcho](https://honcho.readthedocs.io/en/latest/) - Honcho: a python clone of Foreman. For managing Procfile-based applications.
+- [Django axes](https://github.com/jazzband/django-axes) - This djanog lib help you to Keep track of failed login attempts in Django-powered sites
+- [Django tenant ](https://django-tenant-schemas.readthedocs.io/en/latest/index.html) - a django lib to support multiple tenant accross many db
+- [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to         create runtime environment to use during your automatic tests.
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
 - [HandsontableJS](https://github.com/handsontable/handsontable) - JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [JavaEE 7](https://docs.oracle.com/javaee/7/index.html) - For J2E learning
