@@ -154,6 +154,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway
 - [Fluentd](https://github.com/fluent/fluentd) - It's an Unified Logging Layer (project under CNCF)
 - [Commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages
+- [JJ](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
