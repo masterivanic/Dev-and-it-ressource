@@ -60,6 +60,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Socketify](https://github.com/cirospaciari/socketify.py) - Socketify.py is a reliable, high-performance Python web framework for building large-scale app backends and microservices
 - [Lato](https://lato.readthedocs.io/en/latest/) - Lato is a microframework for building modular applications in Python.
 - [Litestar](https://litestar.dev/) - is a powerful, flexible yet opinionated ASGI framework, focused on building APIs, and offers high-performance data validation and parsing, dependency injection, first-class ORM integration, authorization primitives, and much more that's needed to get applications up and running.
+- [PyScript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser.
 - [Litestar alchemy](https://github.com/litestar-org/advanced-alchemy) - A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy
 - [Flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python
 - [Shiny-py](https://github.com/posit-dev/py-shiny) - Shiny for Python
