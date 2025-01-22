@@ -259,6 +259,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Trippy](https://github.com/fujiapple852/trippy) - Trippy combines the functionality of traceroute and ping and is designed to assist with the analysis of networking issues.
 - [GTFOBins](https://gtfobins.github.io/) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured system
 - [Ethical Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - Hacking ressources
+- [JSFIDDLE](https://jsfiddle.net/) - awesome free HTML, CSS and JS online editor
 - [Awesome wescraping](https://github.com/lorien/awesome-web-scraping) - webscraping tools
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) - awesome Rust project
 - [Awesome Go](https://awesome-go.com/) - awesome go project
