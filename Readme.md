@@ -222,6 +222,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Open-Interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [Gpt-computer-assistant](https://github.com/Upsonic/gpt-computer-assistant) - Intelligence development framework in python for your product like Apple Intelligence
 - [Mini-OMNI](https://huggingface.co/gpt-omni/mini-omni/tree/main) - An open-source MMLM that can do real-time speech input and output.
+- [TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
