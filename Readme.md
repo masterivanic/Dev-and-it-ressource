@@ -158,6 +158,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [JuJutsu](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [Dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Clair](https://github.com/quay/clair) - CLair is Vulnerability Static Analysis for Containers tool
+- [Kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF, it can visualize the time packets spend in kernel capture requests/response etc.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
