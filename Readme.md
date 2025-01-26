@@ -116,6 +116,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Apache Ballista](https://datafusion.apache.org/ballista/) - Ballista is a distributed compute platform primarily implemented in Rust, and powered by Apache DataFusion
 - [Plotly](https://github.com/plotly/plotly.py/tree/doc-prod) - The interactive graphing library for Python ✨ This project now includes Plotly Express!
 - [Sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
+- [TiDB](https://github.com/pingcap/tidb) - an open-source cloud-native and distributed SQL database designed for modern applications.
 
 
 ## Miscellaneous
