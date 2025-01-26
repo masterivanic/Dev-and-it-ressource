@@ -161,6 +161,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Kyanos](https://github.com/hengyoush/kyanos) - Kyanos is a networking analysis tool using eBPF, it can visualize the time packets spend in kernel capture requests/response etc.
 - [Forgejo](https://codeberg.org/forgejo/forgejo) - Forgejo is a self-hosted lightweight software forge
 - [Nuikita](https://nuitka.net/) - Nuikita is a python compiler written in Python that creates executables that run without a separate installer.
+- [Terminal apps](https://terminal-apps.dev/?ref=dailydev) - a collection of awesome TUI apps from around the web.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
