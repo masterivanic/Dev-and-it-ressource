@@ -230,6 +230,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Mini-OMNI](https://huggingface.co/gpt-omni/mini-omni/tree/main) - An open-source MMLM that can do real-time speech input and output.
 - [TinyTroupe](https://github.com/microsoft/TinyTroupe) - LLM-powered multiagent persona simulation for imagination enhancement and business insights.
 - [Browse-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
+- [Langchain](https://github.com/langchain-ai/langchain) - LangChain is a framework for developing applications powered by large language models (LLMs)
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
