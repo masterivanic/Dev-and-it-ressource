@@ -163,6 +163,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Forgejo](https://codeberg.org/forgejo/forgejo) - Forgejo is a self-hosted lightweight software forge
 - [Nuikita](https://nuitka.net/) - Nuikita is a python compiler written in Python that creates executables that run without a separate installer.
 - [Terminal apps](https://terminal-apps.dev/?ref=dailydev) - a collection of awesome TUI apps from around the web.
+- [Pydantic run](https://github.com/pydantic/pydantic.run) - Python browser sandbox.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
