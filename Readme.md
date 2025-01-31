@@ -164,6 +164,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Nuikita](https://nuitka.net/) - Nuikita is a python compiler written in Python that creates executables that run without a separate installer.
 - [Terminal apps](https://terminal-apps.dev/?ref=dailydev) - a collection of awesome TUI apps from around the web.
 - [Pydantic run](https://github.com/pydantic/pydantic.run) - Python browser sandbox.
+- [RunTipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
