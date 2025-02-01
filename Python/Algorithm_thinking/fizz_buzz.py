@@ -38,6 +38,10 @@ def find_deleted_number(arr, mixed_arr):
 def duplicate_count(text:str):
     """Counting Duplicates: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/train/python"""
     return sum(1 for count in Counter(text.lower()).values() if count >= 2)
+
+def f(n,l):
+    """[Code Golf] - ZeroFiller:  https://www.codewars.com/kata/6777397b65316bd17df0f678/train/python"""
+    return n.ljust(l,'0') if type(n)==str else f'{n:0{l}d}'
     
 
     
