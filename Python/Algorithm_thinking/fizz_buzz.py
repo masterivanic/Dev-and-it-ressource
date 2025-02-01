@@ -14,6 +14,8 @@
 import re
 
 from collections import Counter
+from functools import reduce
+from operator import mul
 
 for value in range(1, 101):
     if value % 5 == 0 and value % 3 == 0:
@@ -42,6 +44,16 @@ def duplicate_count(text:str):
 def f(n,l):
     """[Code Golf] - ZeroFiller:  https://www.codewars.com/kata/6777397b65316bd17df0f678/train/python"""
     return n.ljust(l,'0') if type(n)==str else f'{n:0{l}d}'
+
+def persistence(n, count=0):
+    digits = [int(x) for x in str(n)]
+    if len(digits) == 1:
+        return count
+    
+    if len(digits) >= 2:
+        n = reduce(mul, digits)
+        count += 1
+        return persistence(n, count=count)
     
 
     
