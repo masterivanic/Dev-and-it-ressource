@@ -236,6 +236,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Langchain](https://github.com/langchain-ai/langchain) - LangChain is a framework for developing applications powered by large language models (LLMs)
 - [Vanna AI](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [LocalAI](https://github.com/mudler/LocalAI) - The free, Open Source alternative to OpenAI, Claude and others
+- [Litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
