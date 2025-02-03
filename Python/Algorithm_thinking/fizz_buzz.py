@@ -76,7 +76,6 @@ def find_secret_message(paragraph):
     result = dict(sorted(result.items(), key=lambda item: item[1]))
     return " ".join(result.keys())
 
-
 def find_secret_message(paragraph):
     """ refacto version of find_secret_message algorithm"""
     s = set()
@@ -87,5 +86,18 @@ def find_secret_message(paragraph):
         else:
             s.add(w)
     return ' '.join(ret)
+
+def solution(s):
+    """Split Strings: https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/python"""
+    if len(s) % 2 != 0:
+        s += '_'
+    
+    result = []
+    for i in range(0, len(s), 2):
+        result.append(s[i:i+2])
+    
+    return result
+        
+        
 
     
