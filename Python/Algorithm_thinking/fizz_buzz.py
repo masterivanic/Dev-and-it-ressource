@@ -54,6 +54,38 @@ def persistence(n, count=0):
         n = reduce(mul, digits)
         count += 1
         return persistence(n, count=count)
-    
+
+
+def get_all_index_of_word(word:str, list_word:list[str]):
+    ids, count = [], 0
+    for idx, w in enumerate(list_word):
+        if count <= 2:
+            if word.__eq__(w):
+                count = count + 1
+                ids.append(idx)
+    return {word:ids}
+
+def find_secret_message(paragraph):
+    """ Secret Message: https://www.codewars.com/kata/54808e45ab03a2c8330009fb/train/python"""
+    import string
+    punct_to_remove = string.punctuation.replace('-', '')
+    paragraph:str = paragraph.translate(str.maketrans('', '', punct_to_remove)).lower()
+    copy = paragraph.split().copy()
+    result = list(map(lambda x: get_all_index_of_word(x, copy), copy))
+    result = {key:value[1] for d in result for key, value in d.items() if len(value) >= 2}
+    result = dict(sorted(result.items(), key=lambda item: item[1]))
+    return " ".join(result.keys())
+
+
+def find_secret_message(paragraph):
+    """ refacto version of find_secret_message algorithm"""
+    s = set()
+    ret = []
+    for w in (word.strip('.,:!?').lower() for word in paragraph.split()):
+        if w in s and not w in ret:
+            ret.append(w)
+        else:
+            s.add(w)
+    return ' '.join(ret)
 
     
