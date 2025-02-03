@@ -119,6 +119,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Sxt-proof-of-sql](https://github.com/spaceandtimelabs/sxt-proof-of-sql) - Space and Time | Proof of SQL
 - [TiDB](https://github.com/pingcap/tidb) - an open-source cloud-native and distributed SQL database designed for modern applications.
 - [scylladb](https://github.com/scylladb/scylladb?tab=readme-ov-file) - Scylla is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
+- [Dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 
 ## Miscellaneous
