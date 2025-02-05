@@ -122,6 +122,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
 
+
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
 - [Compiler explorer](https://godbolt.org/) - online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
@@ -239,6 +240,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Vanna AI](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [LocalAI](https://github.com/mudler/LocalAI) - The free, Open Source alternative to OpenAI, Claude and others
 - [Litgpt](https://github.com/Lightning-AI/litgpt) - 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+- [PgAI](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
