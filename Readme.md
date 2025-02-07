@@ -170,6 +170,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Terminal apps](https://terminal-apps.dev/?ref=dailydev) - a collection of awesome TUI apps from around the web.
 - [Pydantic run](https://github.com/pydantic/pydantic.run) - Python browser sandbox.
 - [RunTipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [Conductor](https://github.com/conductor-oss/conductor) - Conductor is a platform originally created at Netflix to orchestrate microservices and events.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
