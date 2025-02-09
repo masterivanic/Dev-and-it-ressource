@@ -121,6 +121,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [scylladb](https://github.com/scylladb/scylladb?tab=readme-ov-file) - Scylla is the real-time big data database that is API-compatible with Apache Cassandra and Amazon DynamoDB.
 - [Dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [Draw db](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [PG-lite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 
 
 
