@@ -209,6 +209,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Learn anything](https://learn-anything.xyz/) - a great website to get ressources about many subjects
 - [Linux journey](https://linuxjourney.com/) - Learn the ways of Linux-fu, for free.
 - [Linux Kernel](http://www.kroah.com/lkn/) - linux kernel free ebook
+- [Go ebook](https://github.com/dariubs/GoBooks) - List of Golang books
 
 ## Company
 
