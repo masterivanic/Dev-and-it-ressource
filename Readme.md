@@ -250,6 +250,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [PgAI](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [Open webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format [Bedrock, Azure, OpenAI, VertexAI, Anthropic, HuggingFace, Replicate, Groq]
+- [Chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
