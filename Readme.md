@@ -100,6 +100,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [PDM](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [Entreprise pattern](https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html) - Learn about amazing stuff concerning architecture design of entreprise application
 - [NiceGUI](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [Arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [Authentik](https://github.com/goauthentik/authentik) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility, with support for a wide set of protocols.
 
 
