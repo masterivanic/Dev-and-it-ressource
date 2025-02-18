@@ -125,6 +125,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Draw db](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [PG-lite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [Oracle docs](https://oracle.readthedocs.io/en/latest/index.html) - Oracle SQL documentation
+- [Postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 
 
