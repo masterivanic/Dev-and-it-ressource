@@ -256,6 +256,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format [Bedrock, Azure, OpenAI, VertexAI, Anthropic, HuggingFace, Replicate, Groq]
 - [Chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Qdrant](https://github.com/qdrant/qdrant) - Qdrant (read: quadrant) is a vector similarity search engine and vector database
+- [Langwatch](https://github.com/langwatch/langwatch) - Langwatch is a LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
