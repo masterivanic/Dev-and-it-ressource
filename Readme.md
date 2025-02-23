@@ -260,6 +260,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [Qdrant](https://github.com/qdrant/qdrant) - Qdrant (read: quadrant) is a vector similarity search engine and vector database
 - [Langwatch](https://github.com/langwatch/langwatch) - Langwatch is a LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
+- [Gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
