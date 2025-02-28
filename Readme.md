@@ -182,6 +182,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [GoPy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [Kong](https://github.com/alecthomas/kong) - Go command line parser
 - [Nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana is for visualization.
+- [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboard with grafana tools.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
