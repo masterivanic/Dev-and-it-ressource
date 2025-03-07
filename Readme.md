@@ -266,6 +266,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Qdrant](https://github.com/qdrant/qdrant) - Qdrant (read: quadrant) is a vector similarity search engine and vector database
 - [Langwatch](https://github.com/langwatch/langwatch) - Langwatch is a LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 - [Gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [ShellGPT](https://github.com/TheR1D/shell_gpt) - A command-line tool powered by AI large language models
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
