@@ -126,6 +126,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [PG-lite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
 - [Oracle docs](https://oracle.readthedocs.io/en/latest/index.html) - Oracle SQL documentation
 - [Postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [AnyQuery](https://github.com/julien040/anyquery?tab=readme-ov-file) - Query anything (CSV, GitHub, etc.) with SQL
 
 
 
