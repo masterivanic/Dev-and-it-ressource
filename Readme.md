@@ -224,6 +224,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Docker ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook) - Free Introduction to Docker eBook
 - [Event sourcing architecture](https://eventsourcing.readthedocs.io/en/stable/index.html) - Event sourcing and CQRS pattern learning with python step by step
 - [Bind docs](https://bind9.readthedocs.io/en/v9.18.14/index.html) - reference manual for linux server administration
+- [CNCF Courses](https://www.cncf.io/training/courses/) - Cloud Native Training courses covering foundational and advanced topics.
 
 ## Company
 
