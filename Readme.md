@@ -225,6 +225,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Event sourcing architecture](https://eventsourcing.readthedocs.io/en/stable/index.html) - Event sourcing and CQRS pattern learning with python step by step
 - [Bind docs](https://bind9.readthedocs.io/en/v9.18.14/index.html) - reference manual for linux server administration
 - [CNCF Courses](https://www.cncf.io/training/courses/) - Cloud Native Training courses covering foundational and advanced topics.
+- [Linux foundation training portal](https://trainingportal.linuxfoundation.org/learn/dashboard) - Many courses about cloud, software development, devops, security.. and certifaction enhance by linux foundation
 
 ## Company
 
