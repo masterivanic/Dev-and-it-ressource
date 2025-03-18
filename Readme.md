@@ -186,6 +186,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana is for visualization.
 - [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboard with grafana tools.
 - [OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) - OpenAM is an open access management solution that includes Authentication, SSO, Authorization, Federation, Entitlements and Web Services Security.
+- [Uber-kraken](https://uber-kraken.readthedocs.io/en/latest/) - Kraken is a P2P-powered Docker registry that focuses on scalability and availability.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
