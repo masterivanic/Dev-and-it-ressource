@@ -200,6 +200,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [DevOps article](https://devops.com/)
 - [Hexagonal Architecture](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html)
 - [Onion Architecture](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
+- [Uber blog](https://www.uber.com/en-DK/blog/engineering/backend/?uclick_id=269dbb92-9e8e-43e3-8d18-238e4ca8177e) - read about amazing engineering stuff from Uber company.
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
