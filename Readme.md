@@ -75,6 +75,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Bytewax](https://github.com/bytewax/bytewax) - Bytewax is a Python framework that simplifies event and stream processing
 - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
 - [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
+- [Django-rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database
 - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [DRF Async](https://github.com/em1208/adrf) - Django async support lib
 - [Nano django](https://github.com/radiac/nanodjango) - Full Django in a single file views, models, API ,with async support.
