@@ -55,6 +55,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
 - [Django filter](https://django-filter.readthedocs.io/en/main/)
 - [Django Unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [Pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers
 - [Python DI framework](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [HTTPX](https://github.com/encode/httpx/) - HTTPX is a fully featured HTTP client for Python 3, which provides sync and async APIs, and support for both HTTP/1.2
 - [Socketify](https://github.com/cirospaciari/socketify.py) - Socketify.py is a reliable, high-performance Python web framework for building large-scale app backends and microservices
