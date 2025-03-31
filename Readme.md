@@ -299,6 +299,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Python typing](https://python-type-challenges.zeabur.app/) - Master Python typing (type hints) with interactive online exercises
 - [Postgres tutorial](https://www.postgresqltutorial.com/) - full Postgres tutorial step by step
 - [Docker GUI](https://dokemon.dev/) - Docker Container Management GUI base on web interface
+- [LazyDocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Python fullstack](https://www.fullstackpython.com/) - Python utils ressources
 - [Web api](https://github.com/webpy/webpy) - web.py is a Python web framework that is as simple as it is powerful.
 - [Python speed](https://pythonspeed.com/) - amazing python blog website for speed your pythonista skills
