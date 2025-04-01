@@ -149,6 +149,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [GooglePy](https://google.github.io/styleguide/pyguide.html) - Google Python Style Guide
 - [Pylint](https://pylint.readthedocs.io/en/stable/tutorial.html) - A static python code analyzer. It checks for errors, enforces a coding standard, looks for code smells, and can make suggestions about how the code could be refactored.
 - [Scapy](https://scapy.net/) - It is a Python-based interactive packet manipulation program & library.
+- [TypeGuard](https://github.com/agronholm/typeguard) - A python runtime type checker
 - [Sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [Lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
 - [SH With Python](https://sh.readthedocs.io/en/latest/) - Python process launching
