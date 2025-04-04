@@ -40,6 +40,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [ DjangoRestFramework ](https://www.django-rest-framework.org/) - DRF official documentation
 - [Tastypie](https://django-tastypie.readthedocs.io/en/latest/index.html) - Tastypie is a webservice API framework for Django. It provides a convenient, yet powerful and highly customizable, abstraction for creating REST-style interfaces.
 - [Fast api](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [Asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [Hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 - [Robyn python framework](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [Fasthx](https://github.com/volfpeter/fasthx) - FastAPI and HTMX, the right way.
