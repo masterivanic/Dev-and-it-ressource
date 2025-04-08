@@ -114,6 +114,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [Awesome Game-Engine](https://github.com/stevinz/awesome-game-engine-dev) - Awesome list of resources for Game Engine Development.
 - [GODOTENGINE](https://godotengine.org/) - Develop your 2D & 3D games, cross-platform projects, or even XR ideas!
+- [Rosebud-ai](https://rosebud.ai/) - generate arcade games with AI
 
 ## Data Science - DB HUB
 - [rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
