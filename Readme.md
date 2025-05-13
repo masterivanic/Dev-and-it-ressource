@@ -284,6 +284,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - A command-line tool powered by AI large language models
 - [OpenAI Agent Python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+- [Python SDK for MCP](https://github.com/modelcontextprotocol/python-sdk) - official Python SDK for Model Context Protocol servers and clients
   
 ## Others
 - [Algorithm - Sorted List](https://www.cs.usfca.edu/~galles/visualization/Search.html) - Help you to understand sorted algorithm binary, linear search with visualization.
