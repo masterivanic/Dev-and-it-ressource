@@ -197,6 +197,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Gardener](https://github.com/gardener/gardener) - Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
 - [Pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [Dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security
+- [Shellcheck](https://www.shellcheck.net/#) - A website to finds bug in a script shell
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
