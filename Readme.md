@@ -351,6 +351,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome falsehood](https://github.com/kdeldycke/awesome-falsehood) - A curated Awesome list of falsehoods programmers believe in. A falsehood is an idea that you initially believed was true, but in reality, it is proven to be false.
 - [Awesome DDD](https://github.com/heynickc/awesome-ddd)) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [Awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [Awesome gameboy dev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
 
 
 <!-- 
