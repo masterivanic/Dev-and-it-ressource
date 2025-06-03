@@ -107,6 +107,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [Authentik](https://github.com/goauthentik/authentik) - authentik is an open-source Identity Provider that emphasizes flexibility and versatility, with support for a wide set of protocols.
 - [Opentelemetry Python](https://github.com/open-telemetry/opentelemetry-python) - Python opentelemetry sdk and api
+- [Green Tests](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 
 
 ## Game Development
