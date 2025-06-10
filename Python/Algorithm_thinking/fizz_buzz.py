@@ -97,7 +97,22 @@ def solution(s):
         result.append(s[i:i+2])
     
     return result
-        
-        
+
+
+def reverse_number(n):
+    """https://www.codewars.com/kata/555bfd6f9f9f52680f0000c5/train/python"""
+    return -int(str(n).replace("-", "")[::-1]) if "-" in str(n) else int(str(n)[::-1])
+
+def reverse_number(n):
+    reverseInteger = 0
+    rem = 0
+    num = n
+    if n < 0: n = abs(n)
+    while n > 0:
+        reverseInteger *= 10
+        rem = n % 10
+        n = (n - rem) // 10
+        reverseInteger += rem
+    return -reverseInteger if num < 0 else reverseInteger
 
     
