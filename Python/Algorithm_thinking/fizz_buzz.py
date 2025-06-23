@@ -115,4 +115,9 @@ def reverse_number(n):
         reverseInteger += rem
     return -reverseInteger if num < 0 else reverseInteger
 
+def unique(struct):
+    if isinstance(struct, str):
+        struct = list(struct)
+    return [struct[i] for i, _ in enumerate(struct) if i == len(struct) - 1 or struct[i] != struct[i+1]]
+
     
