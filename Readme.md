@@ -349,6 +349,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome GitOps](https://github.com/weaveworks/awesome-gitops) - gitops ressources
 - [Awesome bash](https://github.com/awesome-lists/awesome-bash) - Awesome bash ressources
 - [Awesome OS](https://github.com/jubalh/awesome-os) - A list of operating systems and stuff
+- [Awesome Docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects
 - [Awesome DBT](https://github.com/Hiflylabs/awesome-dbt) - Accurate list of dbt ressource
 - [Awesome jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [Awesome falsehood](https://github.com/kdeldycke/awesome-falsehood) - A curated Awesome list of falsehoods programmers believe in. A falsehood is an idea that you initially believed was true, but in reality, it is proven to be false.
