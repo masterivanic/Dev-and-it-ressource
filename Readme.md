@@ -303,6 +303,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Cloudinary](https://cloudinary.com/) - Cloud base service which help you to manage media storage, provide SDKs, APIs to facilate integration to automate a process. Great just test it, personnaly i've already use it on development.
 - [IP Info](https://ipinfo.io/) - this provide manany service such as geolocation, ranges ip and more. You can get full information about a device through his IP address. you can integrate it on your website if you want to know where requests (country, city, timezone etc.)  are comming from for example.
 - [Buffet](https://github.com/kgdn/buffet) - Web-based virtual machine manager - BSc. Computer Systems dissertation
+- [Six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [Public apis](https://github.com/public-apis/public-apis)
 - [Open source resources](https://opensource.com/resources/) - get notes and resources about open source also differents open source software, if you're a developer you must absolutely check this.
 - [Archive](https://archive.org/) - Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more
