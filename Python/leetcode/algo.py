@@ -1,5 +1,63 @@
 from collections import Counter
 
+"""
+Task
+The function is given a string with lower-case characters. Split the string into as many substrings as possible such that each character appears in only one substring. 
+Return the list of lengths of the resulting substrings.
+
+Examples
+"abbccc" ➞ [1, 2, 3]
+# "a", "bb", "ccc"
+
+"abbacdceef" ➞ [4, 3, 2, 1]
+# "abba", "cdc", "ee", "f"
+
+"abacded" ➞ [3, 1, 3]
+# "aba", "c", "ded"
+
+"abcdea" ➞ [6]
+# "abcdea" because first letter is equal to the last letter.
+"""
+
+def is_exclusive_tuple(t):
+    sets = [set(s) for s in t]
+    char_counts = {}
+    for s in sets:
+        for ch in s:
+            char_counts[ch] = char_counts.get(ch, 0) + 1
+    return all(count == 1 for count in char_counts.values())
+
+def all_partitions(st):
+    substring = []
+    for i in range(len(st)):
+        for j in range(i+1, len(st)+1):
+            substring.append(st[i:j])
+    return substring
+
+def all_partitions(s):
+    n = len(s)
+    for mask in range(1 << (n-1)):
+        parts = []
+        start = 0
+        for i in range(n-1):
+            if mask & (1 << i):
+                parts.append(s[start:i+1])
+                start = i+1
+        parts.append(s[start:])
+        yield tuple(parts)
+
+def split_string(st):
+    last_index = {ch: i for i, ch in enumerate(st)}
+    result = []
+    start = end = 0
+    
+    for i, ch in enumerate(st):
+        end = max(end, last_index[ch])
+        if i == end:
+            result.append(end - start + 1)
+            start = i + 1
+    return result
+
 
 class Solution:
 
