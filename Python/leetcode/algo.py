@@ -18,34 +18,6 @@ Examples
 "abcdea" ➞ [6]
 # "abcdea" because first letter is equal to the last letter.
 """
-
-def is_exclusive_tuple(t):
-    sets = [set(s) for s in t]
-    char_counts = {}
-    for s in sets:
-        for ch in s:
-            char_counts[ch] = char_counts.get(ch, 0) + 1
-    return all(count == 1 for count in char_counts.values())
-
-def all_partitions(st):
-    substring = []
-    for i in range(len(st)):
-        for j in range(i+1, len(st)+1):
-            substring.append(st[i:j])
-    return substring
-
-def all_partitions(s):
-    n = len(s)
-    for mask in range(1 << (n-1)):
-        parts = []
-        start = 0
-        for i in range(n-1):
-            if mask & (1 << i):
-                parts.append(s[start:i+1])
-                start = i+1
-        parts.append(s[start:])
-        yield tuple(parts)
-
 def split_string(st):
     last_index = {ch: i for i, ch in enumerate(st)}
     result = []
