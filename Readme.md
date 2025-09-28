@@ -203,6 +203,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [Dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security
 - [Shellcheck](https://www.shellcheck.net/#) - A website to finds bug in a script shell
+- [Act](https://github.com/nektos/act) - A tool that permit to run github actions locally 🚀
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
