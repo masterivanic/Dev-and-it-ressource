@@ -71,6 +71,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Shiny-py](https://github.com/posit-dev/py-shiny) - Shiny for Python
 - [Locust](https://docs.locust.io/en/stable/) - Locust is an open source performance/load testing tool for HTTP and other protocols
 - [Propan](https://lancetnik.github.io/Propan/) - it's another one HTTP a declarative Python Messaging Framework.
+- [Structlog](https://github.com/hynek/structlog/) - Simple, powerful, and fast logging for Python.
 - [PyPika](https://pypika.readthedocs.io/en/latest/index.html) - PyPika is a Python API for building SQL queries.
 - [Pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [Pika](https://github.com/pika/pika) - Pika is a RabbitMQ (AMQP 0-9-1) client library for Python
