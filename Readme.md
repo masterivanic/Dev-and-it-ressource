@@ -84,6 +84,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Django Ninja](https://django-ninja.dev/) - Django Ninja is a web framework for building APIs with Django and Python 3.6+ type hints.
 - [Django-rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database
 - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
+- [Tenacity](https://github.com/jd/tenacity/tree/main) - Retrying library for Python
 - [DRF Async](https://github.com/em1208/adrf) - Django async support lib
 - [Nano django](https://github.com/radiac/nanodjango) - Full Django in a single file views, models, API ,with async support.
 - [Snorky](https://snorky.readthedocs.io/en/latest/) - Snorky is a framework for building WebSocket servers based on common patterns.
