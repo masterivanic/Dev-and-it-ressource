@@ -116,6 +116,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Opentelemetry Python](https://github.com/open-telemetry/opentelemetry-python) - Python opentelemetry sdk and api
 - [Green Tests](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [Gorm](https://gorm.io/docs/index.html) - An ORM library for Golang aims to be developer friendly.
+- [FastAPI Tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 
 
 ## Game Development
