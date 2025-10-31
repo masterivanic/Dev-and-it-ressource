@@ -117,6 +117,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Green Tests](https://github.com/CleanCut/green) - Green is a clean, colorful, fast python test runner.
 - [Gorm](https://gorm.io/docs/index.html) - An ORM library for Golang aims to be developer friendly.
 - [FastAPI Tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
+- [LogFire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
 
 
 ## Game Development
