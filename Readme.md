@@ -212,6 +212,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Act](https://github.com/nektos/act) - A tool that permit to run github actions locally 🚀
 - [GolangCI-lint](https://github.com/golangci/golangci-lint-action) - Official GitHub Action for golangci-lint from its authors
 - [Gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord) Python library
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
