@@ -372,6 +372,7 @@ for [training and certification](https://www.redhat.com/fr/services/training-and
 - [Awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome gameboy dev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
+- [Awesome event driven architecture](https://github.com/lutzh/awesome-event-driven-architecture) - A curated list of awesome articles and resources to learn about event-driven architecture.
 
 
 <!-- 
