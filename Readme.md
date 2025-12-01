@@ -267,6 +267,7 @@ Notes: Here it's some of the biggest tech company in the world, but i choose som
 - [Google](https://learning.google/) - here learn all about google course
 - [Microsoft](https://learn.microsoft.com/fr-fr/training/) - microsoft formation catalog
 - [Redhat](https://www.redhat.com/fr/topics/) - good explanation too about some usefull topics
+- [Uber](https://www.uber.com/en-FR/blog/engineering/backend/) - Uber backend engineering article
 for [training and certification](https://www.redhat.com/fr/services/training-and-certification) their [youtube channel](https://www.youtube.com/@redhat)
 
 
