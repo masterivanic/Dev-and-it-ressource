@@ -57,7 +57,8 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
 - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
 - [Django filter](https://django-filter.readthedocs.io/en/main/)
-- [Djanog style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
+- [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
+- [FastAPI style guide](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions
 - [Django Unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [Pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers
 - [Python DI framework](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
