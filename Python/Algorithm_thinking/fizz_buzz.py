@@ -120,4 +120,28 @@ def unique(struct):
         struct = list(struct)
     return [struct[i] for i, _ in enumerate(struct) if i == len(struct) - 1 or struct[i] != struct[i+1]]
 
+
+# return True if the two binary trees rooted and a and b are equal in value and structure
+# return False otherwise
+
+# type a = Node
+# type b = Node
+# https://www.codewars.com/kata/55847fcd3e7dadc9f800005f/train/python
+def compare(a, b):
+    if isinstance(a, int) and isinstance(b, int):
+        return a == b
+    if a is None and b is None:
+        return True
+    if a is None or b is None:
+        return False
+    
+    if a.val != b.val:
+        return False
+    return compare(a.left, b.left) and compare(a.right, b.right)
+   
+
+
+
+
+
     
