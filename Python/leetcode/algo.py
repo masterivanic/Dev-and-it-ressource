@@ -30,6 +30,17 @@ def split_string(st):
             start = i + 1
     return result
 
+"""
+    write a program to find common letters
+    between two strings
+    eg: NAINA and REANE: common letter are N, A
+"""
+def commons_letters(st1, st2):
+    st1 = set(st1)
+    st2 = set(st2)
+    ls = st1 & st1
+    return ls
+
 
 class Solution:
 
