@@ -53,6 +53,25 @@ def freq_words(sentence:str):
             count[w]=0
         count[w] = count[w]+1
     print(count)
+
+"""
+find out pair with given sum value of 
+an array.
+eg: [5,7,4,3,9,8,19,21], sum = 17. Pair match this is 4 & 3
+"""
+def two_sum(arr:list, sum:int):
+    arr.sort()
+    l_index = 0
+    r_index = len(arr) - 1
+    while l_index <= r_index:
+        if(arr[l_index] + arr[r_index] > sum):
+            r_index-=1
+        if(arr[l_index] + arr[r_index] < sum):
+            l_index+=1
+        elif(arr[l_index] + arr[r_index] == sum):
+            r_index-=1
+            l_index+=1
+            print(arr[l_index], arr[r_index], "couple find...")
     
 
 class Solution:
