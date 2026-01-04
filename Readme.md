@@ -216,6 +216,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord) Python library
 - [Minikube](https://minikube.sigs.k8s.io/docs/) - a local Kubernetes cluster on macOS, Linux, and Windows
+- [Docker wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
