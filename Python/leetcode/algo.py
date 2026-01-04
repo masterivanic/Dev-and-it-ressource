@@ -41,6 +41,19 @@ def commons_letters(st1, st2):
     ls = st1 & st1
     return ls
 
+"""
+  count frequence of word in a given string
+  eg: freq_words("Sheena loves eating apple and mango . Her sister also loves eating apple and mango .")
+"""
+def freq_words(sentence:str):
+    words = sentence.split(" ")
+    count = {}
+    for w in words:
+        if w not in count.keys():
+            count[w]=0
+        count[w] = count[w]+1
+    print(count)
+    
 
 class Solution:
 
