@@ -73,6 +73,19 @@ def two_sum(arr:list, sum:int):
             l_index+=1
             print(arr[l_index], arr[r_index], "couple find...")
     
+def binary_search(arr:list, num:int):
+    low = 0
+    high = len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        if num == arr[mid]:
+            return mid
+        elif num < arr[mid]:
+            high = mid - 1
+        else:
+            low = mid + 1
+    return -1
+
 
 class Solution:
 
