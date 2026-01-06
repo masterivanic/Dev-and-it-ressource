@@ -86,6 +86,29 @@ def binary_search(arr:list, num:int):
             low = mid + 1
     return -1
 
+"""
+circular search algorithm on circular array
+eg: ([12,14,18,21,3,6,8,9], 9) return 7, [12,14,18,21,3,6,8,9], 18) return 18
+"""
+def circularSearch(arr:list, x:int):
+    low = 0
+    high = len(arr) - 1
+    while low <=high:
+        mid = (low + high) // 2
+        if x == arr[mid]:
+            return mid
+        if arr[mid] <= arr[high]:
+            if x > arr[mid] and x <= arr[high]:
+                low = mid + 1
+            else:
+                high = mid - 1
+        else:
+            if arr[low] <= x and x < arr[mid]:
+                high = mid + 1
+            else:
+                low = mid + 1
+        
+    return - 1
 
 class Solution:
 
