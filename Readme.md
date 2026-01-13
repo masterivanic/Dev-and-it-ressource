@@ -119,6 +119,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - The property-based testing library for Python
 - [Gorm](https://gorm.io/docs/index.html) - An ORM library for Golang aims to be developer friendly.
 - [FastAPI Tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
+- [Clientele](https://github.com/phalt/clientele/) - A different way to build Python API Clients
 - [Nexios](https://github.com/nexios-labs/nexios) - A high-performance Python web framework designed for speed, flexibility
 - [Starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [LogFire](https://github.com/pydantic/logfire) - Uncomplicated Observability for Python and beyond! 🪵🔥
