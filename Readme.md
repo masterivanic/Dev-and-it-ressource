@@ -238,6 +238,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Uber blog](https://www.uber.com/en-DK/blog/engineering/backend/?uclick_id=269dbb92-9e8e-43e3-8d18-238e4ca8177e) - read about amazing engineering stuff from Uber company.
 - [IETF](https://datatracker.ietf.org/) - ITEF database for RFC (Request For Comments) publication
 - [EmulsiV](https://eseo-tech.github.io/emulsiV/) - emulsiV — a RISC-V CPU operation simulator
+- [Linux kernel](https://linux-kernel-labs.github.io/) - linux kernel full documentation
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
