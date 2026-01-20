@@ -51,7 +51,8 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Django step-by-step](https://books.agiliq.com/en/latest/README.html) - Django utils ressources (djanog book)
 - [Django admin cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/) - Django admin cookbbok usefull tips
 - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
-- [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing 
+- [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing
+- [Pytest regressions](https://github.com/ESSS/pytest-regressions) - Pytest plugin for regression testing
 - [Django tools](https://django.wtf/) - best django repo to know
 - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
 - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
