@@ -52,6 +52,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Django admin cookbook](https://books.agiliq.com/projects/django-admin-cookbook/en/latest/) - Django admin cookbbok usefull tips
 - [Document python-project](https://www.mkdocs.org/) - a tools for create online documentation of a python project
 - [Django pytest](https://pytest-django.readthedocs.io/en/latest/) - Django docs for testing
+- [Python Unittest](https://he-arc.github.io/livre-python/unittest/index.html) - Unit testing framework was originally inspired by JUnit for Python
 - [Pytest regressions](https://github.com/ESSS/pytest-regressions) - Pytest plugin for regression testing
 - [Django tools](https://django.wtf/) - best django repo to know
 - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
