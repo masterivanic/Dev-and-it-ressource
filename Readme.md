@@ -57,6 +57,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Django tools](https://django.wtf/) - best django repo to know
 - [Pythonsheet](https://www.pythoncheatsheet.org/) - python sheet to find a function or class quickly
 - [Django ORM](https://books.agiliq.com/projects/django-orm-cookbook/en/latest/query.html) - a blog that resume and how to perform query with django
+- [Django sorcery](https://github.com/shosca/django-sorcery) - Django Framework integration with SQLAlchemy
 - [DRF class](https://www.cdrf.co/) - The best way to understand Django REST Framework class-based views and serializers is to see it in Classy DRF (based on CCBV)
 - [Django filter](https://django-filter.readthedocs.io/en/main/)
 - [Django style guide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
