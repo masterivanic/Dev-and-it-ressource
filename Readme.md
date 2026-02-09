@@ -246,6 +246,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [EmulsiV](https://eseo-tech.github.io/emulsiV/) - emulsiV — a RISC-V CPU operation simulator
 - [Linux kernel](https://linux-kernel-labs.github.io/) - linux kernel full documentation
 - [Python blog](http://simeonfranklin.com/blog/) - Python and  django blog by simonfranklin
+- [Pyhton advanced blog](https://takovibe.com/blog/?category=Python) - Python blog for advanced
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
