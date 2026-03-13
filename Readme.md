@@ -99,6 +99,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Django storage](https://django-storages.readthedocs.io/) - Collection of custom storage backends for Django
 - [Django Upgrade](https://django-upgrade.readthedocs.io/en/latest/installation.html) - automatically upgrade your Django projects from a version to another.
 - [Django pub/sub](https://django-pgpubsub.readthedocs.io/en/latest/) - A distributed task processing framework for Django built on top of the Postgres NOTIFY/LISTEN protocol.
+- [django RQ](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
 - [Django tenant ](https://django-tenant-schemas.readthedocs.io/en/latest/index.html) - a django lib to support multiple tenant accross many db
 - [testcontainers-python](https://github.com/testcontainers/testcontainers-python) - Testcontainers is a Python library that providing a friendly API to run Docker container. It is designed to         create runtime environment to use during your automatic tests.
 - [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - For start with javascript
