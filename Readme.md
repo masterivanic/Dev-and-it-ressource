@@ -396,6 +396,7 @@ Notes: Here it's some of the biggest tech company in the world, but i choose som
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome gameboy dev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs
 - [Awesome event driven architecture](https://github.com/lutzh/awesome-event-driven-architecture) - A curated list of awesome articles and resources to learn about event-driven architecture.
+- [py-rules-engine](https://github.com/saurabh0719/py-rules-engine/tree/main) - A pure-python rules engine. Packed with components to build rules and a rule parse
 
 
 <!-- 
