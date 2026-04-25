@@ -230,6 +230,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Minikube](https://minikube.sigs.k8s.io/docs/) - a local Kubernetes cluster on macOS, Linux, and Windows
 - [Docker wine](https://github.com/scottyhardy/docker-wine) - Docker image that includes Wine and Winetricks for running Windows applications on Linux and macOS
 - [Yaml Specification](https://yaml.org/spec/1.2.2/) - YAMLformat specification
+- [bluebanquise](https://github.com/bluebanquise/bluebanquise) - A coherent Ansible roles collection to simply deploy clusters of nodes
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
