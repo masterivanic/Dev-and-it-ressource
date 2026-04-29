@@ -232,6 +232,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Yaml Specification](https://yaml.org/spec/1.2.2/) - YAMLformat specification
 - [bluebanquise](https://github.com/bluebanquise/bluebanquise) - A coherent Ansible roles collection to simply deploy clusters of nodes
 - [Open HPC](https://github.com/openhpc/ohpc) - OpenHPC Integration, Packaging, and Test Repo
+- [RPM Packaging](https://rpm-packaging-guide.github.io/) - The RPM Packaging Guide documents
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
