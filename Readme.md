@@ -254,6 +254,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Python blog](http://simeonfranklin.com/blog/) - Python and  django blog by simonfranklin
 - [Pyhton advanced blog](https://takovibe.com/blog/?category=Python) - Python blog for advanced
 - [Best Exception handling practice](https://codebuild.blogspot.com/2012/01/15-best-practices-about-exception.html)
+- [Lours compose tips](https://lours.me/posts/compose-tip-051-up-wait/)
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
