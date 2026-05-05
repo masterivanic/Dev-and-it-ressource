@@ -235,6 +235,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [RPM Packaging](https://rpm-packaging-guide.github.io/) - The RPM Packaging Guide documents
 - [Git cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications
 - [Hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [Pangolin](https://github.com/fosrl/pangolin/tree/main) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
