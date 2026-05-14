@@ -160,7 +160,6 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [AnyQuery](https://github.com/julien040/anyquery?tab=readme-ov-file) - Query anything (CSV, GitHub, etc.) with SQL
 
 
-
 ## Miscellaneous
 - [Software Architect Roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
 - [Compiler explorer](https://godbolt.org/) - online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
@@ -286,6 +285,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Bind docs](https://bind9.readthedocs.io/en/v9.18.14/index.html) - reference manual for linux server administration
 - [CNCF Courses](https://www.cncf.io/training/courses/) - Cloud Native Training courses covering foundational and advanced topics.
 - [Linux foundation training portal](https://trainingportal.linuxfoundation.org/learn/dashboard) - Many courses about cloud, software development, devops, security.. and certifaction enhance by linux foundation
+- [Kernel doc](https://docs.kernel.org/filesystems/proc.html) - Linux kernel official documenation
 
 ## Company
 
