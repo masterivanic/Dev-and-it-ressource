@@ -259,6 +259,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Best Exception handling practice](https://codebuild.blogspot.com/2012/01/15-best-practices-about-exception.html)
 - [Lours compose tips](https://lours.me/posts/compose-tip-051-up-wait/)
 - [RFC-8959](https://datatracker.ietf.org/doc/rfc8959/) - The "secret-token" URI Scheme
+- [RFC-6750](https://datatracker.ietf.org/doc/rfc6750/) - The OAuth 2.0 Authorization Framework: Bearer Token Usage
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
