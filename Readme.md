@@ -260,6 +260,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Lours compose tips](https://lours.me/posts/compose-tip-051-up-wait/)
 - [RFC-8959](https://datatracker.ietf.org/doc/rfc8959/) - The "secret-token" URI Scheme
 - [RFC-6750](https://datatracker.ietf.org/doc/rfc6750/) - The OAuth 2.0 Authorization Framework: Bearer Token Usage
+- [RFC-7636](https://datatracker.ietf.org/doc/html/rfc7636) - Proof Key for Code Exchange (PKCE) by OAuth Public Clients
 
 ## Training
 - [Data structure and algorithms](https://leetcode.com/) 
