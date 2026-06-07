@@ -236,6 +236,7 @@ for java 8 tips go there [](https://java8tips.readthedocs.io/en/stable/)
 - [Hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [Pangolin](https://github.com/fosrl/pangolin/tree/main) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard.
 - [Markdown Architectural Decision Records](https://github.com/adr/madr) - Markdown Architectural Decision Records
+- [PyInfra](https://github.com/pyinfra-dev/pyinfra) - pyinfra turns Python code into shell commands and runs them on your servers.
 
 ## Articles
 - [Some article i have been written](https://medium.com/@philippeivan.com) - i'm still keep going
