@@ -238,7 +238,7 @@ if __name__ == '__main__':
     obj = TestTypeChecker(any_value=12)
     print(obj)
 
-     image = Png("biz.png").open().size()
+    image = Png("biz.png").open().size()
     print(image)
     registry = PluginRegistry()
     registry.add(Plugin('test'))
