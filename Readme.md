@@ -448,6 +448,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Python tips](https://book.pythontips.com/) - Python tips every Python developer should know
 - [Python typing](https://python-type-challenges.zeabur.app/) - Master Python typing with interactive online exercises
 - [Europython](https://ep2023.europython.eu/) - EuroPython Europe community for blogs, sessions, and more
+- [Scientific python](https://learn.scientific-python.org/development/) - Scientific python blog
 
 
 ## Company Resources
