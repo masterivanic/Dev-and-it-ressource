@@ -256,6 +256,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Pangolin](https://github.com/fosrl/pangolin/tree/main) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard
 - [bluebanquise](https://github.com/bluebanquise/bluebanquise) - A coherent Ansible roles collection to deploy clusters of nodes
 - [Open HPC](https://github.com/openhpc/ohpc) - OpenHPC integration, packaging, and test repo
+- [Slim toolkit](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x
 
 ### Monitoring and Observability
 - [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboards with Grafana tools
