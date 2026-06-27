@@ -101,6 +101,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Django-rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database
 - [Hateos DRF](https://blog.majsky.cz/implementing-hateoas-django-rest-framework/) - Implementing HATEOAS with Django REST framework
 - [DRF Async](https://github.com/em1208/adrf) - Django async support lib
+- [Django Bolt](https://github.com/dj-bolt/django-bolt) - Rust-powered API framework for Django achieving 60k+ RPS.
 
 ### FastAPI Ecosystem
 - [Asyncer](https://github.com/fastapi/asyncer) - Async and await, focused on developer experience
