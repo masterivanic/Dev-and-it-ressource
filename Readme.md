@@ -460,6 +460,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Europython](https://ep2023.europython.eu/) - EuroPython Europe community for blogs, sessions, and more
 - [Scientific python](https://learn.scientific-python.org/development/) - Scientific python blog
 - [Python, C blog](https://iscinumpy.dev/post/)
+- [API Cocktail](https://apicocktail.substack.com/)
 
 
 ## Company Resources
