@@ -238,6 +238,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 
 ### Containers and Orchestration
 - [Docker labs](https://dockerlabs.collabnix.com/) - Docker labs and resources
+- [Kubeschool](https://kubeschool.portainer.io/) - kubernetes, GitOps and Helm notes
 - [Docker ebook](https://github.com/bobbyiliev/introduction-to-docker-ebook) - Free introduction to Docker eBook
 - [Docker sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker cheat sheet (essential commands)
 - [Docker GUI](https://github.com/dokemon-ng/dokemon) - Docker container management GUI based on a web interface
