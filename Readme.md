@@ -143,6 +143,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [ShellGPT](https://github.com/TheR1D/shell_gpt) - A command-line tool powered by AI large language models
 - [PyInfra](https://github.com/pyinfra-dev/pyinfra) - Turns Python code into shell commands and runs them on your servers
 - [Document python-project](https://www.mkdocs.org/) - A tool for creating online documentation for a Python project
+- [Auto-CPUFreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 
 ### Python Packaging and Project Management
 - [Flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
