@@ -285,6 +285,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Code QL](https://codeql.github.com/) - Discover vulnerabilities across a codebase
 - [OpenAM](https://github.com/OpenIdentityPlatform/OpenAM) - An open access management solution including authentication, SSO, authorization, federation, and more
 - [Virus total](https://www.virustotal.com/gui/home/upload) - Online service that allows the analysis of suspicious files and rapid detection of malware
+- [Linux CVE](https://lore.kernel.org/linux-cve-announce/) - Linux CVE announce catalog
 
 ### Networking
 - [Pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services
