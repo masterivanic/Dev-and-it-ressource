@@ -309,6 +309,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Awesome bash](https://github.com/awesome-lists/awesome-bash) - Awesome bash resources
 - [Awesome OS](https://github.com/jubalh/awesome-os) - A list of operating systems and related resources
 - [Mail0](https://github.com/nizzyabi/Mail0) - Open source Gmail alternative (coming soon)
+- [Floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative
 
 
 ## Data Science and Databases
