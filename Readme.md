@@ -265,6 +265,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Rusternetes](https://github.com/calfonso/rusternetes/tree/main) - kubernetes, reimplemented in Rust
 - [Radar](https://github.com/skyhook-io/radar) - The missing open source Kubernetes UI. Topology, event timeline, and service traffic
 - [Slim toolkit](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x
+- [Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 
 ### Monitoring and Observability
 - [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboards with Grafana tools
