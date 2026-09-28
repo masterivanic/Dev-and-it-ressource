@@ -490,6 +490,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Vim sheet](https://vim.rtorr.com/) - Vim cheatsheet
 - [Gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [Okcar-os](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment
+- [Markdown spec](https://spec.commonmark.org/0.30/) - Markdown specification
 
 
 [Back to Top](#top)
