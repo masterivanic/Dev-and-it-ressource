@@ -267,6 +267,8 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Slim toolkit](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x
 - [Pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [k3s](https://github.com/k3s-io/k3s/) - Lightweight Kubernetes
+- [k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in < 60s 🚀
 
 ### Monitoring and Observability
 - [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboards with Grafana tools
