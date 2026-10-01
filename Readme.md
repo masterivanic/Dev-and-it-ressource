@@ -192,7 +192,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Go ebook](https://github.com/dariubs/GoBooks) - List of Golang books
 - [Awesome Go](https://awesome-go.com/) - Awesome Go projects
 - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-
+- [Go style code guide](https://google.github.io/styleguide/go/guide) - Best go programming practice 
 
 ## Web Development - General
 
