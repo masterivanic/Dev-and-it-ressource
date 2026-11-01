@@ -272,6 +272,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [ClusterShell](https://github.com/clustershell/clustershell) - Scalable cluster administration Python framework
 - [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [Pacemaker](https://github.com/clusterlabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
+- [Slurm](https://github.com/schedmd/slurm) - A Highly Scalable Workload Manager
 
 ### Monitoring and Observability
 - [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboards with Grafana tools
