@@ -468,6 +468,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Scientific python](https://learn.scientific-python.org/development/) - Scientific python blog
 - [Python, C blog](https://iscinumpy.dev/post/)
 - [API Cocktail](https://apicocktail.substack.com/)
+- [Vezpi Blog](https://blog.vezpi.com/fr/post/deploy-hermes-agent-homelab) - blog about homelab
 
 
 ## Company Resources
