@@ -274,6 +274,7 @@ Hello community, welcome to passionate. Here we will discover amazing ressources
 - [Pacemaker](https://github.com/clusterlabs/pacemaker) - Pacemaker is an advanced, scalable High-Availability cluster resource manager
 - [Slurm](https://github.com/schedmd/slurm) - A Highly Scalable Workload Manager
 - [Podlet](https://github.com/containers/podlet) - Generate Podman Quadlet files from a Podman command, compose file, or existing object
+- [Systemd](https://www.freedesktop.org/software/systemd/man/latest/systemd.service.html) - Systemd service docs
 
 ### Monitoring and Observability
 - [Grafana](https://grafana.com/grafana/dashboards/) - List of application dashboards with Grafana tools
